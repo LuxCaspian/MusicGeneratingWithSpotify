@@ -1,0 +1,4 @@
+# [OPTIONAL] Save Pipeline for Production/Website
+# with open('music_mood_pipeline.pkl', 'wb') as file:
+#     pickle.dump(ml_pipeline, file)
+# print("Pipeline successfully saved as 'music_mood_pipeline.pkl'")
