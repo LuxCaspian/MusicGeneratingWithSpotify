@@ -1,0 +1,428 @@
+track_id,track_name,artist_name,artist_genres,album_name,track_popularity,explicit,track_duration_min,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+19KlZwqlT3fguP2BeHF1Q1,Disease,Lady Gaga,"art pop, pop",Disease,70,False,3.83,0.562,0.917,-2.768,0.117,0.0513,0.0,0.488,0.501,100.987
+3bg2qahpZmsg5wV2EMPXIk,Forever Young,David Guetta,edm,Forever Young,73,False,2.61,0.558,0.655,-5.476,0.0379,0.208,0.0,0.0854,0.39,129.89
+5vNRhkKd0yEAg8suGBpjeY,APT.,ROSÉ,k-pop,APT.,88,False,2.83,0.777,0.783,-4.477,0.26,0.0283,0.0,0.355,0.939,149.027
+5vNRhkKd0yEAg8suGBpjeY,APT.,ROSÉ,k-pop,APT.,88,False,2.83,0.777,0.783,-4.477,0.26,0.0283,0.0,0.355,0.939,149.027
+1Cbl3Yq8rHo7hhDQmLQagU,PUSH 2 START,Tyla,afrobeats,TYLA +,80,False,2.61,0.683,0.814,-3.505,0.0466,0.277,0.00826,0.0858,0.758,93.482
+1Cbl3Yq8rHo7hhDQmLQagU,PUSH 2 START,Tyla,afrobeats,TYLA +,80,False,2.61,0.683,0.814,-3.505,0.0466,0.277,0.00826,0.0858,0.758,93.482
+2CspwnypzT7rcWI9RfsoSb,Mantra,JENNIE,k-pop,Mantra,73,True,2.27,0.894,0.725,-4.984,0.0432,0.00434,1.15e-05,0.0815,0.838,116.988
+1Es7AUAhQvapIcoh3qMKDL,Timeless (feat. Playboi Carti),The Weeknd,"r&b pop, alternative r&b, hip hop, synthpop",Timeless,19,True,4.26,0.769,0.722,-5.485,0.0507,0.0584,2.56e-06,0.111,0.57,119.973
+1Es7AUAhQvapIcoh3qMKDL,Timeless (feat. Playboi Carti),The Weeknd,"r&b pop, alternative r&b, hip hop, synthpop",Timeless,19,True,4.26,0.769,0.722,-5.485,0.0507,0.0584,2.56e-06,0.111,0.57,119.973
+1Es7AUAhQvapIcoh3qMKDL,Timeless (feat. Playboi Carti),The Weeknd,"r&b pop, alternative r&b, hip hop, synthpop",Timeless,19,True,4.26,0.769,0.722,-5.485,0.0507,0.0584,2.56e-06,0.111,0.57,119.973
+1Es7AUAhQvapIcoh3qMKDL,Timeless (feat. Playboi Carti),The Weeknd,"r&b pop, alternative r&b, hip hop, synthpop",Timeless,19,True,4.26,0.769,0.722,-5.485,0.0507,0.0584,2.56e-06,0.111,0.57,119.973
+1cOboCuWYI2osTOfolMRS6,Tu Boda,Oscar Maydon,"corrido, corridos tumbados, corridos bélicos, electro corridos, dembow belico, sad sierreño, sierreño",Tu Boda,83,True,3.76,0.694,0.651,-6.968,0.0784,0.496,1.36e-05,0.0787,0.471,112.648
+1cOboCuWYI2osTOfolMRS6,Tu Boda,Oscar Maydon,"corrido, corridos tumbados, corridos bélicos, electro corridos, dembow belico, sad sierreño, sierreño",Tu Boda,83,True,3.76,0.694,0.651,-6.968,0.0784,0.496,1.36e-05,0.0787,0.471,112.648
+1cOboCuWYI2osTOfolMRS6,Tu Boda,Oscar Maydon,"corrido, corridos tumbados, corridos bélicos, electro corridos, dembow belico, sad sierreño, sierreño",Tu Boda,83,True,3.76,0.694,0.651,-6.968,0.0784,0.496,1.36e-05,0.0787,0.471,112.648
+3aCPResPDNae3pXTocGpYe,LIL DEMON,Future,rap,MIXTAPE PLUTO,74,True,2.31,0.863,0.754,-5.851,0.0611,0.00125,0.0,0.0913,0.301,131.001
+2PnlsTsOTLE5jnBnNe2K0A,The Emptiness Machine,Linkin Park,"nu metal, rap metal, rock, alternative metal",The Emptiness Machine,77,True,3.17,0.466,0.872,-3.344,0.0336,0.0156,0.0,0.121,0.806,184.115
+2PnlsTsOTLE5jnBnNe2K0A,The Emptiness Machine,Linkin Park,"nu metal, rap metal, rock, alternative metal",The Emptiness Machine,77,True,3.17,0.466,0.872,-3.344,0.0336,0.0156,0.0,0.121,0.806,184.115
+1d7Ptw3qYcfpdLNL5REhtJ,Taste,Sabrina Carpenter,pop,Short n' Sweet,69,False,2.62,0.67,0.91,-4.07,0.0634,0.0939,0.0,0.304,0.786,112.966
+2HRqTpkrJO5ggZyyK6NPWz,Espresso,Sabrina Carpenter,pop,Short n' Sweet,85,True,2.92,0.699,0.776,-5.282,0.0293,0.131,5.36e-06,0.205,0.708,103.963
+21B4gaTWnTkuSh77iWEXdS,Juno,Sabrina Carpenter,pop,Short n' Sweet,83,True,3.71,0.633,0.725,-4.257,0.0427,0.0461,0.0,0.205,0.64,130.504
+1UHS8Rf6h5Ar3CDWRd3wjF,Bed Chem,Sabrina Carpenter,pop,Short n' Sweet,82,False,2.86,0.739,0.727,-5.968,0.0426,0.0678,0.0,0.104,0.676,94.99
+2tHwzyyOLoWSFqYNjeVMzj,Please Please Please,Sabrina Carpenter,pop,Short n' Sweet,83,True,3.1,0.675,0.586,-6.086,0.0531,0.257,0.0,0.104,0.621,107.015
+2plbrEY59IikOBgBGLjaoe,Die With A Smile,Lady Gaga,"art pop, pop",Die With A Smile,91,False,4.19,0.521,0.592,-7.777,0.0304,0.308,0.0,0.122,0.535,157.969
+2plbrEY59IikOBgBGLjaoe,Die With A Smile,Lady Gaga,"art pop, pop",Die With A Smile,91,False,4.19,0.521,0.592,-7.777,0.0304,0.308,0.0,0.122,0.535,157.969
+2plbrEY59IikOBgBGLjaoe,Die With A Smile,Lady Gaga,"art pop, pop",Die With A Smile,91,False,4.19,0.521,0.592,-7.777,0.0304,0.308,0.0,0.122,0.535,157.969
+7ov3TDp5D00Rnu5R1viX4w,New Woman (feat. ROSALÍA),LISA,k-pop,New Woman (feat. ROSALÍA),69,True,2.99,0.477,0.854,-4.715,0.275,0.0858,0.0,0.065,0.314,140.515
+6aJn7Cst74cj4lNIiPRgav,Touch,KATSEYE,k-pop,Touch,86,False,2.16,0.739,0.904,-2.655,0.0442,0.549,1.03e-05,0.0948,0.788,167.033
+5nPbKG04fhLkIAjcPFaZq7,I Adore You (feat. Daecolm),HUGEL,"latin house, afro house, techengue",I Adore You (feat. Daecolm),84,False,3.56,0.704,0.787,-6.751,0.0462,0.00926,0.00538,0.159,0.31,119.996
+5nPbKG04fhLkIAjcPFaZq7,I Adore You (feat. Daecolm),HUGEL,"latin house, afro house, techengue",I Adore You (feat. Daecolm),84,False,3.56,0.704,0.787,-6.751,0.0462,0.00926,0.00538,0.159,0.31,119.996
+5nPbKG04fhLkIAjcPFaZq7,I Adore You (feat. Daecolm),HUGEL,"latin house, afro house, techengue",I Adore You (feat. Daecolm),84,False,3.56,0.704,0.787,-6.751,0.0462,0.00926,0.00538,0.159,0.31,119.996
+7tI8dRuH2Yc6RuoTjxo4dU,Who,Jimin,k-pop,MUSE,86,False,2.84,0.66,0.756,-3.743,0.032,0.00289,0.0,0.193,0.838,116.034
+7tI8dRuH2Yc6RuoTjxo4dU,Who,Jimin,k-pop,MUSE,86,False,2.84,0.66,0.756,-3.743,0.032,0.00289,0.0,0.193,0.838,116.034
+2yR2sziCF4WEs3klW1F38d,KEEP UP,Odetari,"hyperpop, nightcore",KEEP UP // FROSTBITE,75,True,2.22,0.476,0.829,-3.806,0.0658,0.0172,0.00916,0.167,0.505,139.198
+0OA00aPt3BV10qeMIs3meW,Big Dawgs,Hanumankind,"malayalam hip hop, desi hip hop",Big Dawgs,76,True,3.17,0.464,0.745,-3.202,0.161,0.0235,0.0,0.363,0.262,180.098
+0OA00aPt3BV10qeMIs3meW,Big Dawgs,Hanumankind,"malayalam hip hop, desi hip hop",Big Dawgs,76,True,3.17,0.464,0.745,-3.202,0.161,0.0235,0.0,0.363,0.262,180.098
+6vvPecFTmWxDfEJ6cYT1wa,Rockstar,LISA,k-pop,Rockstar,74,True,2.3,0.668,0.628,-4.692,0.046,0.129,0.0,0.0293,0.568,140.053
+6WatFBLVB0x077xWeoVc2k,Si Antes Te Hubiera Conocido,KAROL G,"reggaeton, latin, urbano latino",Si Antes Te Hubiera Conocido,83,False,3.26,0.924,0.668,-6.795,0.0469,0.446,0.000594,0.0678,0.787,128.027
+6WatFBLVB0x077xWeoVc2k,Si Antes Te Hubiera Conocido,KAROL G,"reggaeton, latin, urbano latino",Si Antes Te Hubiera Conocido,83,False,3.26,0.924,0.668,-6.795,0.0469,0.446,0.000594,0.0678,0.787,128.027
+6WatFBLVB0x077xWeoVc2k,Si Antes Te Hubiera Conocido,KAROL G,"reggaeton, latin, urbano latino",Si Antes Te Hubiera Conocido,83,False,3.26,0.924,0.668,-6.795,0.0469,0.446,0.000594,0.0678,0.787,128.027
+6WatFBLVB0x077xWeoVc2k,Si Antes Te Hubiera Conocido,KAROL G,"reggaeton, latin, urbano latino",Si Antes Te Hubiera Conocido,83,False,3.26,0.924,0.668,-6.795,0.0469,0.446,0.000594,0.0678,0.787,128.027
+1BJJbSX6muJVF2AK7uH1x4,Move,Adam Port,"afro house, house, afro tech",Move,82,False,2.95,0.727,0.782,-8.529,0.042,0.0563,0.336,0.225,0.655,119.992
+1BJJbSX6muJVF2AK7uH1x4,Move,Adam Port,"afro house, house, afro tech",Move,82,False,2.95,0.727,0.782,-8.529,0.042,0.0563,0.336,0.225,0.655,119.992
+4w2GLmK2wnioVnb5CPQeex,360,Charli xcx,"hyperpop, art pop",BRAT,76,True,2.23,0.857,0.62,-8.13,0.0472,0.646,0.244,0.0934,0.796,120.042
+19RybK6XDbAVpcdxSbZL1o,Apple,Charli xcx,"hyperpop, art pop",BRAT,76,False,2.52,0.804,0.957,-5.452,0.034,0.125,0.0174,0.114,0.962,126.035
+5N3hjp1WNayUPZrA8kJmJP,Please Please Please,Sabrina Carpenter,pop,Please Please Please,79,True,3.1,0.669,0.586,-6.073,0.054,0.274,0.0,0.104,0.579,107.071
+5N3hjp1WNayUPZrA8kJmJP,Please Please Please,Sabrina Carpenter,pop,Please Please Please,79,True,3.1,0.669,0.586,-6.073,0.054,0.274,0.0,0.104,0.579,107.071
+3siwsiaEoU4Kuuc9WKMUy5,No One Noticed,The Marías,bedroom pop,Submarine,89,False,3.94,0.705,0.339,-10.612,0.0278,0.552,0.0814,0.12,0.457,97.989
+2HYFX63wP3otVIvopRS99Z,Houdini,Eminem,"rap, hip hop",Houdini,75,True,3.78,0.936,0.887,-2.76,0.0683,0.0292,1.88e-06,0.0582,0.889,127.003
+7iabz12vAuVQYyekFIWJxD,BAND4BAND (feat. Lil Baby),Central Cee,"uk drill, drill, uk grime",BAND4BAND (feat. Lil Baby),73,True,2.34,0.882,0.764,-5.241,0.204,0.359,0.0,0.119,0.886,140.113
+7iabz12vAuVQYyekFIWJxD,BAND4BAND (feat. Lil Baby),Central Cee,"uk drill, drill, uk grime",BAND4BAND (feat. Lil Baby),73,True,2.34,0.882,0.764,-5.241,0.204,0.359,0.0,0.119,0.886,140.113
+7iabz12vAuVQYyekFIWJxD,BAND4BAND (feat. Lil Baby),Central Cee,"uk drill, drill, uk grime",BAND4BAND (feat. Lil Baby),73,True,2.34,0.882,0.764,-5.241,0.204,0.359,0.0,0.119,0.886,140.113
+6dOtVTDdiauQNBQEDOtlAB,BIRDS OF A FEATHER,Billie Eilish,"alternative pop, electropop, dark pop",HIT ME HARD AND SOFT,94,False,3.5,0.747,0.507,-10.171,0.0358,0.2,0.0608,0.117,0.438,104.978
+6dOtVTDdiauQNBQEDOtlAB,BIRDS OF A FEATHER,Billie Eilish,"alternative pop, electropop, dark pop",HIT ME HARD AND SOFT,94,False,3.5,0.747,0.507,-10.171,0.0358,0.2,0.0608,0.117,0.438,104.978
+6dOtVTDdiauQNBQEDOtlAB,BIRDS OF A FEATHER,Billie Eilish,"alternative pop, electropop, dark pop",HIT ME HARD AND SOFT,94,False,3.5,0.747,0.507,-10.171,0.0358,0.2,0.0608,0.117,0.438,104.978
+3QaPy1KgI7nu9FJEQUgn6h,WILDFLOWER,Billie Eilish,"alternative pop, electropop, dark pop",HIT ME HARD AND SOFT,92,False,4.35,0.467,0.247,-12.002,0.0431,0.612,0.000271,0.17,0.126,148.101
+3QaPy1KgI7nu9FJEQUgn6h,WILDFLOWER,Billie Eilish,"alternative pop, electropop, dark pop",HIT ME HARD AND SOFT,92,False,4.35,0.467,0.247,-12.002,0.0431,0.612,0.000271,0.17,0.126,148.101
+4Na2HfNSr58chvfX69fy36,one of wun,Gunna,melodic rap,One of Wun,80,True,2.4,0.915,0.453,-4.589,0.27,0.0872,0.000163,0.104,0.287,139.943
+7221xIgOnuakPdLqT0F3nP,I Had Some Help (Feat. Morgan Wallen),Post Malone,"pop, hip hop, country",I Had Some Help,80,True,2.97,0.638,0.855,-4.86,0.0264,0.00757,0.0,0.245,0.731,127.986
+7221xIgOnuakPdLqT0F3nP,I Had Some Help (Feat. Morgan Wallen),Post Malone,"pop, hip hop, country",I Had Some Help,80,True,2.97,0.638,0.855,-4.86,0.0264,0.00757,0.0,0.245,0.731,127.986
+6AI3ezQ4o3HUoP6Dhudph3,Not Like Us,Kendrick Lamar,"hip hop, west coast hip hop",Not Like Us,86,True,4.56,0.898,0.472,-7.001,0.0776,0.0107,0.0,0.141,0.214,101.061
+6AI3ezQ4o3HUoP6Dhudph3,Not Like Us,Kendrick Lamar,"hip hop, west coast hip hop",Not Like Us,86,True,4.56,0.898,0.472,-7.001,0.0776,0.0107,0.0,0.141,0.214,101.061
+6AI3ezQ4o3HUoP6Dhudph3,Not Like Us,Kendrick Lamar,"hip hop, west coast hip hop",Not Like Us,86,True,4.56,0.898,0.472,-7.001,0.0776,0.0107,0.0,0.141,0.214,101.061
+6AI3ezQ4o3HUoP6Dhudph3,Not Like Us,Kendrick Lamar,"hip hop, west coast hip hop",Not Like Us,86,True,4.56,0.898,0.472,-7.001,0.0776,0.0107,0.0,0.141,0.214,101.061
+2OzhQlSqBEmt7hmkYxfT6m,Fortnight (feat. Post Malone),Taylor Swift,"country, pop, indie, folk",THE TORTURED POETS DEPARTMENT,81,False,3.81,0.504,0.386,-10.976,0.0308,0.502,1.53e-05,0.0961,0.281,192.004
+4q5YezDOIPcoLr8R81x9qy,I Can Do It With a Broken Heart,Taylor Swift,"country, pop, indie, folk",THE TORTURED POETS DEPARTMENT,80,True,3.63,0.701,0.751,-8.39,0.0502,0.123,0.0,0.15,0.22,129.994
+2qSkIjg1o9h3YT9RAgYN75,Espresso,Sabrina Carpenter,pop,Espresso,84,True,2.92,0.701,0.76,-5.478,0.0285,0.107,6.54e-05,0.185,0.69,103.969
+2qSkIjg1o9h3YT9RAgYN75,Espresso,Sabrina Carpenter,pop,Espresso,84,True,2.92,0.701,0.76,-5.478,0.0285,0.107,6.54e-05,0.185,0.69,103.969
+5bi0gh89wRuH2OgjdAKFsb,Santa,Rvssian,trap latino,Santa,74,False,3.21,0.725,0.709,-5.017,0.129,0.321,0.000189,0.114,0.648,99.993
+2tudvzsrR56uom6smgOcSf,Like That,Future,rap,WE DON'T TRUST YOU,82,True,4.46,0.814,0.676,-4.67,0.231,0.00709,1.28e-05,0.119,0.312,162.012
+2tudvzsrR56uom6smgOcSf,Like That,Future,rap,WE DON'T TRUST YOU,82,True,4.46,0.814,0.676,-4.67,0.231,0.00709,1.28e-05,0.119,0.312,162.012
+28drn6tQo95MRvO0jQEo5C,Type Shit,Future,rap,WE DON'T TRUST YOU,80,True,3.8,0.64,0.552,-5.679,0.129,0.0215,0.0,0.119,0.112,144.941
+28drn6tQo95MRvO0jQEo5C,Type Shit,Future,rap,WE DON'T TRUST YOU,80,True,3.8,0.64,0.552,-5.679,0.129,0.0215,0.0,0.119,0.112,144.941
+28drn6tQo95MRvO0jQEo5C,Type Shit,Future,rap,WE DON'T TRUST YOU,80,True,3.8,0.64,0.552,-5.679,0.129,0.0215,0.0,0.119,0.112,144.941
+28drn6tQo95MRvO0jQEo5C,Type Shit,Future,rap,WE DON'T TRUST YOU,80,True,3.8,0.64,0.552,-5.679,0.129,0.0215,0.0,0.119,0.112,144.941
+67smGwuPEtA6GAfeweAVNO,SLAY!,Eternxlkz,"phonk, brazilian phonk",SLAY!,76,True,1.78,0.681,0.773,-4.706,0.0345,0.0863,0.734,0.0978,0.504,129.923
+46kspZSY3aKmwQe7O77fCC,we can't be friends (wait for your love),Ariana Grande,pop,eternal sunshine,79,False,3.81,0.645,0.646,-8.334,0.0427,0.0615,3.04e-05,0.074,0.295,115.842
+46kspZSY3aKmwQe7O77fCC,we can't be friends (wait for your love),Ariana Grande,pop,eternal sunshine,79,False,3.81,0.645,0.646,-8.334,0.0427,0.0615,3.04e-05,0.074,0.295,115.842
+57wp7VFnV8X0pSVnYArGeJ,Whatever She Wants,Bryson Tiller,"trap soul, r&b",Whatever She Wants,76,True,2.68,0.803,0.512,-6.871,0.066,0.128,0.0,0.0928,0.435,96.02
+6XjDF6nds4DE2BBbagZol6,Gata Only,FloyyMenor,reggaeton chileno,Gata Only,84,True,3.7,0.791,0.499,-8.472,0.0509,0.446,2.41e-05,0.0899,0.669,99.986
+4VL5XwfATZuAVTW471Wpro,FUNKED UP - SLOWED,xxanteria,"phonk, brazilian phonk",FUNKED UP,71,False,1.92,0.755,0.927,0.254,0.0645,0.00288,0.925,0.0567,0.702,109.952
+0sftzYE0YgPHXrvJyUyGjB,Deep In Your Love,Alok,"brazilian bass, electronic, slap house, electro house",Deep In Your Love,65,False,2.41,0.588,0.88,-5.15,0.0354,0.0243,6.89e-05,0.0667,0.523,130.085
+05WVKTdZhlIMX4qqMLuo0f,BELLAKEO,Peso Pluma,"corrido, corridos tumbados, corridos bélicos, música mexicana, sad sierreño, banda, electro corridos",BELLAKEO,71,True,3.28,0.72,0.88,-2.834,0.101,0.0562,0.06,0.153,0.463,180.011
+7bywjHOc0wSjGGbj04XbVi,LUNA,Feid,"reggaeton, urbano latino",FERXXOCALIPSIS,84,False,3.28,0.774,0.86,-2.888,0.13,0.131,0.0,0.116,0.446,100.019
+7vOmSP2647oNUGGEhWd1cr,Montagem Mysterious Game,LXNGVX,"phonk, brazilian phonk",Montagem Mysterious Game,72,False,1.72,0.537,0.64,-10.441,0.104,0.146,0.878,0.157,0.222,130.051
+69phA1R4gmQsBFRQ3INW8C,ONE CALL,Rich Amiri,rage rap,Ghetto Fabulous,73,True,2.02,0.65,0.539,-7.281,0.0561,0.00617,2.67e-05,0.114,0.253,158.105
+17cia5k4BpGVlyEfqrFH50,Can’t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes,Olivia Rodrigo,"pop rock, alternative pop, pop punk",The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By),74,False,3.42,0.409,0.347,-8.159,0.0359,0.834,4.55e-06,0.121,0.199,141.332
+3nNmRE0DxHC6ZaKkrpUumS,FINA,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",nadie sabe lo que va a pasar mañana,74,True,3.6,0.847,0.724,-5.41,0.298,0.0869,1.11e-06,0.118,0.396,94.601
+4qSEvFGCpde73gqIuq3sho,HIBIKI,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",nadie sabe lo que va a pasar mañana,72,True,3.46,0.801,0.645,-5.605,0.0706,0.604,0.0,0.118,0.528,119.935
+4MjDJD8cW7iVeWInc2Bdyj,MONACO,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",nadie sabe lo que va a pasar mañana,80,True,4.45,0.787,0.621,-5.009,0.068,0.15,0.000402,0.58,0.13,139.056
+7iQXYTyuG13aoeHxGG28Nh,PERRO NEGRO,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",nadie sabe lo que va a pasar mañana,82,True,2.71,0.911,0.778,-2.248,0.262,0.0887,2.16e-05,0.179,0.345,96.057
+7iQXYTyuG13aoeHxGG28Nh,PERRO NEGRO,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",nadie sabe lo que va a pasar mañana,82,True,2.71,0.911,0.778,-2.248,0.262,0.0887,2.16e-05,0.179,0.345,96.057
+7aqfrAY2p9BUSiupwk3svU,First Person Shooter (feat. J. Cole),Drake,rap,For All The Dogs,72,True,4.12,0.475,0.655,-7.342,0.33,0.0306,0.0,0.375,0.245,163.997
+2YSzYUF3jWqb9YP9VXmpjE,IDGAF (feat. Yeat),Drake,rap,For All The Dogs,75,True,4.33,0.673,0.672,-8.577,0.224,0.0466,0.000284,0.193,0.14,136.902
+6rjuKpPydT2SxN15TZpV7r,500lbs,Lil Tecca,"melodic rap, rap",TEC,78,True,2.4,0.724,0.779,-5.412,0.0807,0.098,0.0,0.127,0.53,123.013
+6QT6j7rKt7Vk3IuV2AUO9W,lacy,Olivia Rodrigo,"pop rock, alternative pop, pop punk",GUTS,81,False,2.95,0.395,0.367,-7.653,0.0324,0.815,0.0,0.11,0.426,77.968
+3ZaEs1O8BG581qYPHpQ8d6,I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino),A$AP Rocky,rap,I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino),84,True,3.17,0.47,0.652,-9.629,0.0561,0.0831,4.08e-05,0.175,0.104,141.981
+42VsgItocQwOQC3XWZ8JNA,FE!N (feat. Playboi Carti),Travis Scott,rap,UTOPIA,83,True,3.19,0.569,0.882,-2.777,0.06,0.0316,0.0,0.142,0.201,148.038
+42VsgItocQwOQC3XWZ8JNA,FE!N (feat. Playboi Carti),Travis Scott,rap,UTOPIA,83,True,3.19,0.569,0.882,-2.777,0.06,0.0316,0.0,0.142,0.201,148.038
+7CyPwkp0oE8Ro9Dd5CUDjW,"One Of The Girls (with JENNIE, Lily Rose Depp)",The Weeknd,"r&b pop, alternative r&b, hip hop, synthpop",The Idol Episode 4 (Music from the HBO Original Series),91,False,4.07,0.264,0.64,-6.221,0.0442,0.0393,2.31e-06,0.151,0.19,84.828
+4rXLjWdF2ZZpXCVTfWcshS,fukumean,Gunna,melodic rap,a Gift & a Curse,78,True,2.08,0.847,0.622,-6.747,0.0903,0.119,0.0,0.285,0.22,130.001
+4rXLjWdF2ZZpXCVTfWcshS,fukumean,Gunna,melodic rap,a Gift & a Curse,78,True,2.08,0.847,0.622,-6.747,0.0903,0.119,0.0,0.285,0.22,130.001
+2FDTHlrBguDzQkp7PVj16Q,Sprinter,Dave,"grime, uk grime, uk drill, drill",Sprinter,81,True,3.81,0.918,0.681,-4.705,0.201,0.263,0.0,0.0615,0.706,139.057
+2FDTHlrBguDzQkp7PVj16Q,Sprinter,Dave,"grime, uk grime, uk drill, drill",Sprinter,81,True,3.81,0.918,0.681,-4.705,0.201,0.263,0.0,0.0615,0.706,139.057
+1vYXt7VSjH9JIM5oRRo7vA,Dance The Night - From Barbie The Album,Dua Lipa,pop,Dance The Night (From Barbie The Album),80,False,2.94,0.671,0.845,-4.93,0.048,0.0207,0.0,0.329,0.775,110.056
+6pD0ufEQq0xdHSsRbg9LBK,un x100to,Grupo Frontera,"cumbia norteña, banda, norteño, música mexicana, corrido, corridos tumbados, grupera, tejano, ranchera, corridos bélicos",un x100to,75,False,3.24,0.569,0.724,-4.076,0.0474,0.228,0.0,0.27,0.562,83.118
+5w40ZYhbBMAlHYNDaVJIUu,Chemical,Post Malone,"pop, hip hop, country",Chemical,74,True,3.06,0.49,0.88,-4.856,0.0435,0.00154,0.0,0.103,0.392,169.949
+1o82DwNisONAd2mu1RcGE6,Margaret (feat. Bleachers),Lana Del Rey,"alternative pop, indie pop",Did you know that there's a tunnel under Ocean Blvd,80,False,5.66,0.34,0.245,-13.352,0.0319,0.969,0.0992,0.0633,0.192,103.777
+1Lo0QY9cvc8sUB2vnIOxDT,Fast Car,Luke Combs,country,Gettin' Old,82,False,4.42,0.712,0.603,-5.52,0.0262,0.186,0.0,0.115,0.67,97.994
+7ABLbnD53cQK00mhcaOUVG,LALA,Myke Towers,"reggaeton, trap latino, urbano latino",LA VIDA ES UNA,78,True,3.29,0.708,0.737,-4.045,0.0436,0.0739,0.00162,0.0955,0.607,91.986
+2UW7JaomAMuX9pZrjVpHAU,La Bebe - Remix,Yng Lvcas,"reggaeton mexa, reggaeton, electro corridos, dembow belico",La Bebe (Remix),77,True,3.9,0.812,0.479,-5.678,0.333,0.213,1.21e-06,0.0756,0.559,169.922
+0FA4wrjDJvJTTU8AepZTup,Watch This - ARIZONATEARS Pluggnb Remix,Lil Uzi Vert,melodic rap,Watch This (ARIZONATEARS Pluggnb Remix),72,True,2.71,0.686,0.897,-7.18,0.0386,0.0103,0.103,0.153,0.355,129.975
+59uQI0PADDKeE6UZDTJEe8,Last Night,Morgan Wallen,country,3 Songs At A Time Sampler,33,True,2.73,0.492,0.673,-5.431,0.0347,0.413,0.0,0.137,0.488,203.812
+3zkyus0njMCL6phZmNNEeN,LET GO,Central Cee,"uk drill, drill, uk grime, grime",LET GO,72,True,2.9,0.747,0.413,-11.197,0.488,0.848,0.0,0.17,0.481,146.05
+5Y35SjAfXjjG0sFQ3KOxmm,Nobody Gets Me,SZA,r&b,SOS,83,True,3.01,0.358,0.284,-8.285,0.0285,0.805,0.0,0.183,0.276,99.796
+4iZ4pt7kvcaH6Yo8UoZ4s2,Snooze,SZA,r&b,SOS,85,True,3.36,0.559,0.551,-7.231,0.132,0.141,0.0,0.11,0.392,143.008
+1Qrg8KqiBpW07V7PNxwwwL,Kill Bill,SZA,r&b,SOS,81,False,2.56,0.644,0.735,-5.747,0.0391,0.0521,0.144,0.161,0.418,88.98
+26b3oVLrRUaaybJulow9kz,People,Libianca,"afrobeats, afrobeat",People,76,False,3.07,0.573,0.422,-7.621,0.0678,0.551,1.31e-05,0.102,0.693,124.357
+0V3wPSX9ygBnCm8psDIegu,Anti-Hero,Taylor Swift,"country, pop, indie, folk",Midnights,79,False,3.34,0.633,0.648,-6.645,0.062,0.121,2.62e-06,0.161,0.49,96.888
+4uUG5RXrOk84mYEfFvj3cK,I'm Good (Blue),David Guetta,edm,I'm Good (Blue),84,True,2.92,0.561,0.965,-3.673,0.0343,0.00383,7.07e-06,0.371,0.304,128.04
+5ildQOEKmJuWGl2vRkFdYc,DESPECHÁ,ROSALÍA,latin,DESPECHÁ,72,True,2.61,0.919,0.623,-6.521,0.0992,0.184,1.63e-05,0.0609,0.775,130.037
+5SHpuW2qjkQtFRpE6P9Nks,The 30th,Billie Eilish,"alternative pop, electropop, dark pop",Guitar Songs,76,False,3.6,0.387,0.135,-14.398,0.051,0.929,0.0,0.0948,0.21,82.987
+3LtpKP5abr2qqjunvjlX5i,Doja,Central Cee,"uk drill, drill, uk grime, grime",Doja,77,True,1.62,0.911,0.573,-7.43,0.288,0.38,0.0,0.403,0.972,140.04
+3LtpKP5abr2qqjunvjlX5i,Doja,Central Cee,"uk drill, drill, uk grime, grime",Doja,77,True,1.62,0.911,0.573,-7.43,0.288,0.38,0.0,0.403,0.972,140.04
+41P6Tnd8KIHqON0QIydx6a,the perfect pair,beabadoobee,bedroom pop,Beatopia,82,False,2.95,0.634,0.663,-6.818,0.0331,0.433,0.124,0.102,0.6,146.053
+6dgUya35uo964z7GZXM07g,Nonsense,Sabrina Carpenter,pop,emails i can't send,83,False,2.72,0.74,0.697,-4.912,0.034,0.0268,0.0,0.224,0.732,138.992
+2tTmW7RDtMQtBk7m2rYeSw,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap,"argentine trap, trap latino, urbano latino","Quevedo: Bzrp Music Sessions, Vol. 52",80,False,3.31,0.621,0.782,-5.548,0.044,0.0125,0.033,0.23,0.55,128.033
+3F5CgOj3wFlRv51JsHbxhe,Jimmy Cooks (feat. 21 Savage),Drake,rap,"Honestly, Nevermind",80,True,3.63,0.529,0.673,-4.711,0.175,0.000307,2.41e-06,0.093,0.366,165.921
+3F5CgOj3wFlRv51JsHbxhe,Jimmy Cooks (feat. 21 Savage),Drake,rap,"Honestly, Nevermind",80,True,3.63,0.529,0.673,-4.711,0.175,0.000307,2.41e-06,0.093,0.366,165.921
+4rmVZajAF7PkrCagGPHbqa,Sticky,Drake,rap,"Honestly, Nevermind",70,True,4.05,0.853,0.495,-14.63,0.14,0.0917,0.000217,0.0844,0.0774,137.027
+4h9wh7iOZ0GGn8QVp4RAOB,I Ain't Worried,OneRepublic,soft pop,"I Ain’t Worried (Music From The Motion Picture Top Gun: Maverick"")""",81,False,2.47,0.704,0.797,-5.927,0.0475,0.0826,0.000745,0.0546,0.825,139.994
+0fX4oNGBWO3dSGUZcVdVV2,N95,Kendrick Lamar,"hip hop, west coast hip hop",Mr. Morale & The Big Steppers,72,True,3.26,0.79,0.67,-5.527,0.105,0.377,2.32e-06,0.119,0.408,139.956
+28GCbKgjlVD9eDmasGbe0T,Me Fui de Vacaciones,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",Un Verano Sin Ti,74,False,3.01,0.714,0.645,-5.493,0.0514,0.229,0.00083,0.0942,0.434,85.046
+6Sq7ltF9Qa7SNFBsV5Cogx,Me Porto Bonito,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",Un Verano Sin Ti,82,True,2.97,0.911,0.712,-5.105,0.0817,0.0901,2.68e-05,0.0933,0.425,92.005
+6Xom58OOXk2SoU711L2IXO,Moscow Mule,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",Un Verano Sin Ti,83,True,4.09,0.804,0.674,-5.453,0.0333,0.294,1.18e-06,0.115,0.292,99.968
+31i56LZnwE6uSu3exoHjtB,Neverita,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",Un Verano Sin Ti,78,False,2.88,0.876,0.498,-7.511,0.0478,0.0706,0.0,0.143,0.428,122.016
+3k3NWokhRRkEPhCzPmV8TW,Ojitos Lindos,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",Un Verano Sin Ti,82,False,4.3,0.647,0.686,-5.745,0.0413,0.08,1.34e-06,0.528,0.268,79.928
+0E0DRHf5PfMeor0ZCwB3oT,Otro Atardecer,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",Un Verano Sin Ti,80,False,4.07,0.777,0.595,-6.79,0.0375,0.59,0.00139,0.0669,0.546,108.02
+5kVZxyMY1gfdCLiChsfjn1,Yo No Soy Celoso,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",Un Verano Sin Ti,75,True,3.84,0.872,0.588,-6.276,0.0492,0.275,0.0,0.17,0.93,142.004
+41oY4WCTj5kccfesTVFnvN,Tarot,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",Un Verano Sin Ti,78,True,3.96,0.795,0.684,-3.971,0.0419,0.0225,0.0,0.658,0.419,114.011
+1IHWl5LamUGEuP4ozKQSXZ,Tití Me Preguntó,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",Un Verano Sin Ti,83,True,4.06,0.65,0.715,-5.198,0.253,0.0993,0.000291,0.126,0.187,106.672
+6VrQTLzzuyGIYjUDe4kAZk,Un Coco,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",Un Verano Sin Ti,78,True,3.27,0.839,0.69,-4.464,0.0615,0.207,8.33e-06,0.176,0.744,151.991
+0wihfILRNOwE2156Shezc8,Agosto,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",Un Verano Sin Ti,74,True,2.31,0.849,0.584,-8.195,0.115,0.0929,6.18e-06,0.492,0.724,115.018
+44XjoNvtwevktFKjvVe1vH,Andrea,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",Un Verano Sin Ti,77,True,5.66,0.797,0.616,-10.229,0.375,0.762,0.000293,0.0979,0.451,103.071
+44XjoNvtwevktFKjvVe1vH,Andrea,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",Un Verano Sin Ti,77,True,5.66,0.797,0.616,-10.229,0.375,0.762,0.000293,0.0979,0.451,103.071
+1dm6z1fWB0cErMszU25dy2,Después de la Playa,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",Un Verano Sin Ti,74,False,3.84,0.564,0.903,-3.221,0.307,0.356,0.0,0.175,0.607,78.293
+5Eax0qFko2dh7Rl2lYs3bx,Efecto,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",Un Verano Sin Ti,81,True,3.55,0.801,0.475,-8.797,0.0516,0.141,1.73e-05,0.0639,0.234,98.047
+1797zYiX4cKosMH836X9Gt,La Corriente,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",Un Verano Sin Ti,74,True,3.3,0.663,0.786,-3.51,0.195,0.229,0.0,0.219,0.579,196.12
+59nOXPmaKlBfGMDeOVGrIK,WAIT FOR U (feat. Drake & Tems),Future,rap,I NEVER LIKED YOU,82,True,3.16,0.463,0.642,-4.474,0.34,0.314,0.0,0.0686,0.339,83.389
+59nOXPmaKlBfGMDeOVGrIK,WAIT FOR U (feat. Drake & Tems),Future,rap,I NEVER LIKED YOU,82,True,3.16,0.463,0.642,-4.474,0.34,0.314,0.0,0.0686,0.339,83.389
+59nOXPmaKlBfGMDeOVGrIK,WAIT FOR U (feat. Drake & Tems),Future,rap,I NEVER LIKED YOU,82,True,3.16,0.463,0.642,-4.474,0.34,0.314,0.0,0.0686,0.339,83.389
+7dSZ6zGTQx66c2GF91xCrb,PROVENZA,KAROL G,"reggaeton, latin, urbano latino",PROVENZA,71,False,3.5,0.87,0.516,-8.006,0.0541,0.656,0.00823,0.11,0.53,111.005
+2rurDawMfoKP4uHyb2kJBt,Te Felicito,Shakira,latin pop,Te Felicito,69,False,2.87,0.695,0.636,-4.654,0.317,0.234,0.0,0.081,0.575,174.14
+4zN21mbAuaD0WqtmaTZZeP,Ferrari,James Hype,"house, tech house",Ferrari,76,False,3.11,0.847,0.69,-7.877,0.0493,0.0127,6e-05,0.0526,0.692,125.004
+1gH1h30wkQdd9zhY3j7a8T,THE SHADE,Rex Orange County,bedroom pop,WHO CARES?,74,False,3.02,0.898,0.509,-7.973,0.062,0.391,0.0,0.0876,0.727,119.869
+7fZBQnc0zXwVybgCIrQQil,Belly Dancer,Imanbek,slap house,Belly Dancer,76,False,2.52,0.845,0.797,-4.984,0.139,0.0582,5.57e-06,0.167,0.422,121.985
+1ri9ZUkBJVFUdgwzCnfcYs,MAMIII,Becky G,"reggaeton, latin",MAMIII,69,False,3.76,0.843,0.7,-3.563,0.0803,0.0934,0.0,0.14,0.899,93.991
+08SB2OtZkaliju77WYEKxk,No Love (with SZA),Summer Walker,r&b,Still Over It,72,True,3.85,0.707,0.618,-5.825,0.19,0.17,0.0,0.293,0.517,133.876
+0gplL1WMoJ6iYaPgMCL0gX,Easy On Me,Adele,soft pop,Easy On Me,78,False,3.74,0.604,0.366,-7.519,0.0282,0.578,0.0,0.133,0.13,141.981
+4ak9GGe6afmi2HbxEjvhIC,Male Fantasy,Billie Eilish,"alternative pop, electropop, dark pop",Happier Than Ever,72,False,3.24,0.687,0.288,-10.415,0.045,0.863,0.0,0.0986,0.308,110.927
+4HOryCnbme0zBnF8LWij3f,Getting Older,Billie Eilish,"alternative pop, electropop, dark pop",Happier Than Ever,72,False,4.07,0.599,0.128,-17.261,0.109,0.974,0.121,0.115,0.367,159.679
+5XsAal7ZcWg1I5T4NcRjkv,Halley's Comet,Billie Eilish,"alternative pop, electropop, dark pop",Happier Than Ever,78,False,3.91,0.403,0.159,-16.728,0.104,0.961,0.0121,0.34,0.0381,72.38
+5fwSHlTEWpluwOM0Sxnh5k,Pepas,Farruko,"reggaeton, trap latino",Pepas,77,True,4.78,0.762,0.766,-3.955,0.0343,0.00776,6.98e-05,0.128,0.442,130.001
+4cktbXiXOapiLBMprHFErI,Memories,Maroon 5,pop,JORDI (Deluxe),82,False,3.15,0.775,0.327,-7.241,0.0557,0.841,0.0,0.0821,0.595,91.05
+2JPLbjOn0wPCngEot2STUS,Yonaguni,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",Yonaguni,78,True,3.44,0.644,0.648,-4.601,0.118,0.276,0.0,0.135,0.44,179.951
+4qu63nuBpdn0qHUHuObEj1,Leave Before You Love Me (with Jonas Brothers),Marshmello,edm,Leave Before You Love Me,80,False,2.58,0.721,0.738,-4.77,0.0403,0.00226,4.41e-06,0.118,0.637,119.976
+6YvqWjhGD8mB5QXcbcUKtx,Love Story (Taylor’s Version),Taylor Swift,"country, pop, indie, folk",Fearless (Taylor's Version),75,False,3.92,0.627,0.792,-4.311,0.031,0.13,3.97e-06,0.0845,0.415,119.054
+65OVbaJR5O1RmwOQx0875b,Wants and Needs (feat. Lil Baby),Drake,rap,Scary Hours 2,76,True,3.21,0.578,0.449,-6.349,0.286,0.0618,2.17e-06,0.119,0.1,136.006
+4MzXwWMhyBbmu6hOcLVD49,DÁKITI,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",EL ÚLTIMO TOUR DEL MUNDO,77,True,3.41,0.731,0.573,-10.059,0.0544,0.401,5.22e-05,0.113,0.145,109.928
+2XIc1pqjXV3Cr2BQUGNBck,LA NOCHE DE ANOCHE,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",EL ÚLTIMO TOUR DEL MUNDO,75,False,3.38,0.856,0.618,-4.892,0.286,0.0303,0.0,0.0866,0.391,81.993
+727Z2S2mtNH46CbP9EWPwY,If You Love Her,Forest Blakk,spoken word,If You Love Her,73,False,3.62,0.286,0.445,-8.087,0.0347,0.355,0.0,0.114,0.278,50.827
+6f3Slt0GbA2bPZlz0aIFXN,The Business,Tiësto,"edm, trance, big room",The Business,73,False,2.73,0.798,0.62,-7.079,0.232,0.414,0.0192,0.112,0.235,120.031
+4R2kfaDFhslZEMJqAFNpdd,cardigan,Taylor Swift,"country, pop, indie, folk",folklore,86,False,3.99,0.613,0.581,-8.588,0.0424,0.537,0.000345,0.25,0.551,130.033
+2U5WueTLIK5WJLD7mvDODv,Wishing Well,Juice WRLD,"melodic rap, emo rap",Legends Never Die,76,True,3.24,0.65,0.613,-6.13,0.128,0.00336,0.0,0.267,0.0804,149.972
+2Y0wPrPQBrGhoLn14xRYCG,Come & Go (with Marshmello),Juice WRLD,"melodic rap, emo rap",Legends Never Die,75,True,3.42,0.625,0.814,-5.181,0.0657,0.0172,0.0,0.158,0.535,144.991
+1H7KnK26kc1YyellpbINEn,The Woo (feat. 50 Cent & Roddy Ricch),Pop Smoke,"brooklyn drill, new york drill, drill",Shoot For The Stars Aim For The Moon,69,True,3.36,0.49,0.618,-5.655,0.104,0.0221,3.77e-06,0.259,0.286,99.7
+4HBZA5flZLE435QTztThqH,Stuck with U (with Justin Bieber),Ariana Grande,pop,Stuck with U,80,False,3.8,0.597,0.45,-6.658,0.0418,0.223,0.0,0.382,0.537,178.765
+0FVuyC9RP5MACjp4lgU3qZ,I'm God,Clams Casino,cloud rap,Instrumental Relics,75,False,4.62,0.529,0.641,-6.78,0.0336,0.0711,0.76,0.102,0.089,141.931
+5ruzrDWcT0vuJIOMW7gMnW,The Adults Are Talking,The Strokes,"garage rock, indie rock, alternative rock",The New Abnormal,80,False,5.15,0.593,0.749,-5.67,0.0475,0.0113,0.106,0.314,0.649,164.959
+3FAJ6O0NOHQV8Mc5Ri6ENp,Heartbreak Anniversary,GIVĒON,r&b,TAKE TIME,77,False,3.3,0.449,0.465,-8.964,0.0791,0.524,1.02e-06,0.303,0.543,89.087
+6NfrH0ANGmgBXyxgV2PeXt,La Difícil,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",YHLQMDLG,71,True,2.71,0.685,0.848,-4.561,0.0858,0.0861,7.14e-06,0.0783,0.761,179.87
+2DEZmgHKAvm41k4J3R2E9Y,Safaera,Bad Bunny,"reggaeton, trap latino, urbano latino, latin",YHLQMDLG,77,True,4.91,0.607,0.829,-4.074,0.379,0.0103,0.0,0.107,0.685,96.172
+5hM5arv9KDbCHS0k9uqwjr,Borderline,Tame Impala,"neo-psychedelic, indie",The Slow Rush,83,False,3.96,0.621,0.873,-3.067,0.0369,0.0406,9.1e-06,0.0824,0.873,97.96
+792HwhrdO3ErRKL5yRe4Ge,Invincible,Pop Smoke,"brooklyn drill, new york drill, drill",Meet The Woo 2,72,True,2.12,0.548,0.732,-5.652,0.336,0.125,0.0,0.269,0.612,142.791
+7FIWs0pqAYbP91WWM0vlTQ,Godzilla (feat. Juice WRLD),Eminem,"rap, hip hop",Music To Be Murdered By,80,True,3.51,0.808,0.745,-5.26,0.342,0.145,0.0,0.292,0.829,165.995
+0nbXyq5TXYPCO7pr3N8S4I,The Box,Roddy Ricch,melodic rap,Please Excuse Me for Being Antisocial,81,True,3.27,0.896,0.586,-6.687,0.0559,0.104,0.0,0.79,0.642,116.971
+2gMXnyrvIjhVBUZwvLZDMP,Before You Go,Lewis Capaldi,soft pop,Divinely Uninspired To A Hellish Extent (Extended Edition),83,False,3.58,0.459,0.574,-4.857,0.0577,0.608,0.0,0.0885,0.183,111.881
+23TwR29GSeJBfXnXhmDlwR,"Crazy Story, Pt. 3",King Von,"chicago drill, drill","Grandson, Vol. 1",76,True,3.18,0.729,0.73,-5.14,0.261,0.00165,4.33e-05,0.118,0.41,156.953
+21jGcNKet2qwijlDFuPiPb,Circles,Post Malone,"pop, hip hop, country",Hollywood's Bleeding,85,False,3.58,0.695,0.763,-3.497,0.0396,0.189,0.00242,0.0863,0.551,120.042
+21jGcNKet2qwijlDFuPiPb,Circles,Post Malone,"pop, hip hop, country",Hollywood's Bleeding,85,False,3.58,0.695,0.763,-3.497,0.0396,0.189,0.00242,0.0863,0.551,120.042
+0t3ZvGKlmYmVsDzBJAXK8C,Goodbyes (feat. Young Thug),Post Malone,"pop, hip hop, country",Hollywood's Bleeding,76,True,2.91,0.547,0.653,-3.875,0.081,0.456,0.0,0.103,0.163,150.097
+0t3ZvGKlmYmVsDzBJAXK8C,Goodbyes (feat. Young Thug),Post Malone,"pop, hip hop, country",Hollywood's Bleeding,76,True,2.91,0.547,0.653,-3.875,0.081,0.456,0.0,0.103,0.163,150.097
+0RiRZpuVRbi7oqRdSMwhQY,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,"pop, hip hop, country",Hollywood's Bleeding,81,False,2.62,0.755,0.522,-4.368,0.0575,0.533,0.0,0.0685,0.925,89.96
+7CZyCXKG6d5ALeq41sLzbw,Take What You Want (feat. Ozzy Osbourne & Travis Scott),Post Malone,"pop, hip hop, country",Hollywood's Bleeding,79,False,3.82,0.498,0.8,-2.665,0.0503,0.0903,0.0,0.147,0.272,139.918
+7xQAfvXzm3AkraOtGPWIZg,Wow.,Post Malone,"pop, hip hop, country",Hollywood's Bleeding,77,True,2.49,0.829,0.538,-7.359,0.212,0.137,1.88e-06,0.103,0.389,99.952
+3lG6OtGDsYAOALxEmubQQm,Happiness is a butterfly,Lana Del Rey,"alternative pop, indie pop",Norman Fucking Rockwell!,73,False,4.54,0.467,0.119,-10.99,0.0401,0.969,1.4e-06,0.0973,0.156,70.499
+1lOe9qE0vR9zwWQAOk6CoO,Ransom,Lil Tecca,"melodic rap, rap",We Love You Tecca,82,True,2.18,0.745,0.642,-6.257,0.287,0.0204,0.0,0.0658,0.226,179.974
+1dGr1c8CrMLDpV6mPbImSI,Lover,Taylor Swift,"country, pop, indie, folk",Lover,84,False,3.68,0.359,0.543,-7.582,0.0919,0.492,1.58e-05,0.118,0.453,68.534
+79s5XnCN4TJKTVMSmOx8Ep,Dior,Pop Smoke,"brooklyn drill, new york drill, drill",Meet The Woo,76,True,3.6,0.548,0.805,-5.732,0.351,0.212,0.000405,0.408,0.649,142.096
+0tMSssfxAL2oV8Vri0mFHE,listen before i go,Billie Eilish,"alternative pop, electropop, dark pop","WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",75,False,4.04,0.319,0.0561,-23.023,0.045,0.935,0.00384,0.388,0.082,79.764
+2IRZnDFmlqMuOrYOLnZZyc,Going Bad (feat. Drake),Meek Mill,rap,Championships,73,True,3.0,0.889,0.496,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003
+3P3pw6C19j31Rnzgo3JG7o,Perfect Strangers,Jonas Blue,tropical house,Blue,76,False,3.27,0.73,0.861,-4.1,0.0451,0.39,0.0,0.213,0.704,117.965
+4t9vB7wIKWE5jIhjcztmmd,Iris,Pastel Ghost,"witch house, darkwave",Ethereality,70,False,3.63,0.534,0.855,-7.578,0.0342,0.00043,0.893,0.0996,0.601,117.987
+6Up545NUflOiXo8cEraH49,You Say,Lauren Daigle,"christian, worship, ccm, christian pop",Look Up Child,74,False,4.57,0.494,0.632,-6.89,0.0342,0.682,0.0,0.0869,0.0797,147.873
+7BqHUALzNBTanL6OvsqmC1,Happier,Marshmello,edm,Happier,81,False,3.57,0.687,0.792,-2.749,0.0452,0.191,0.0,0.167,0.671,100.011
+0c0YHn3DIQLl1opsQDd9kO,Wish (feat. Trippie Redd) - Trippie Mix,Diplo,moombahton,LIFE'S A TRIP,82,True,2.94,0.565,0.819,-7.899,0.0668,0.232,0.0,0.111,0.682,94.011
+2xLMifQCjDGFmkHkpNLD9h,SICKO MODE,Travis Scott,rap,ASTROWORLD,82,True,5.21,0.834,0.73,-3.714,0.222,0.00513,0.0,0.124,0.446,155.008
+2xLMifQCjDGFmkHkpNLD9h,SICKO MODE,Travis Scott,rap,ASTROWORLD,82,True,5.21,0.834,0.73,-3.714,0.222,0.00513,0.0,0.124,0.446,155.008
+48QmG1dfvMuYLxMPt7KSRA,No Lie,Sean Paul,dancehall,Mad Love The Prequel,83,False,3.68,0.742,0.882,-2.862,0.117,0.0466,0.0,0.206,0.463,102.04
+0u2P5u6lvoDfwTYjAADbn4,lovely (with Khalid),Billie Eilish,"alternative pop, electropop, dark pop",lovely (with Khalid),87,False,3.33,0.351,0.296,-10.109,0.0333,0.934,0.0,0.095,0.12,115.284
+2ZRo7axmMPeSVUvDbGkJah,Hope,XXXTENTACION,emo rap,?,81,True,1.84,0.592,0.457,-6.081,0.0603,0.661,0.000331,0.146,0.225,146.04
+0JP9xo3adEtGSdUEISiszL,Moonlight,XXXTENTACION,emo rap,?,82,True,2.25,0.921,0.537,-5.723,0.0804,0.556,0.00404,0.102,0.711,128.009
+2BOqDYLOJBiMOXShCV1neZ,Dancing On My Own,Calum Scott,soft pop,Only Human (Deluxe),80,False,4.33,0.681,0.174,-8.745,0.0315,0.837,3.35e-05,0.0983,0.231,112.672
+5PjdC2gMATetx5xdnwGUu7,i wanna be your girlfriend,girl in red,bedroom pop,i wanna be your girlfriend,74,True,3.41,0.541,0.382,-14.323,0.035,0.0215,0.000836,0.304,0.343,155.901
+09IStsImFySgyp0pIQdqAc,The Middle,Zedd,edm,The Middle,77,False,3.07,0.753,0.657,-3.061,0.0449,0.171,0.0,0.112,0.437,107.01
+5GorCbAP4aL0EJ16frG2hd,Boulevard of Broken Dreams,Green Day,"punk, pop punk",Greatest Hits: God's Favorite Band,72,True,4.37,0.496,0.682,-4.095,0.0294,0.00552,2.94e-05,0.0589,0.474,167.06
+5TXDeTFVRVY7Cvt0Dw4vWW,Revenge,XXXTENTACION,emo rap,17,81,True,2.0,0.746,0.251,-16.169,0.259,0.782,0.00203,0.106,0.18,139.999
+7AQim7LbvFVZJE3O8TYgf2,Fuck Love,XXXTENTACION,emo rap,17,82,True,2.44,0.797,0.533,-9.74,0.0412,0.0172,0.000152,0.103,0.329,131.036
+7GX5flRQZVHRAGd6B4TmDO,XO Tour Llif3,Lil Uzi Vert,melodic rap,Luv Is Rage 2,80,True,3.04,0.732,0.75,-6.366,0.231,0.00264,0.0,0.109,0.401,155.096
+7GX5flRQZVHRAGd6B4TmDO,XO Tour Llif3,Lil Uzi Vert,melodic rap,Luv Is Rage 2,80,True,3.04,0.732,0.75,-6.366,0.231,0.00264,0.0,0.109,0.401,155.096
+0VgkVdmE4gld66l8iyGjgx,Mask Off,Future,rap,FUTURE,80,True,3.41,0.833,0.434,-8.795,0.431,0.0102,0.0219,0.165,0.281,150.062
+0VgkVdmE4gld66l8iyGjgx,Mask Off,Future,rap,FUTURE,80,True,3.41,0.833,0.434,-8.795,0.431,0.0102,0.0219,0.165,0.281,150.062
+0yc6Gst2xkRu0eMLeRMGCX,Apocalypse,Cigarettes After Sex,dream pop,Cigarettes After Sex,15,False,4.84,0.369,0.468,-9.013,0.0273,0.0205,0.566,0.109,0.18,94.434
+1IF5UcqRO42D12vYwceOY6,From the Dining Table,Harry Styles,"pop rock, soft rock, synthpop",Harry Styles,69,False,3.53,0.671,0.156,-16.288,0.0371,0.804,0.0518,0.113,0.201,94.08
+0w5Bdu51Ka25Pf3hojsKHh,Hard Times,Paramore,"pop punk, emo",After Laughter,78,False,3.04,0.695,0.818,-5.379,0.0334,0.00647,4.87e-06,0.0219,0.916,119.965
+2R4AlwtrrkMaRKojcTIzmL,For the First Time,Mac DeMarco,"indie, lo-fi indie",This Old Dog,82,False,3.03,0.551,0.529,-10.469,0.0517,0.296,0.0093,0.178,0.521,75.515
+5mCPDVBb16L4XQwDdbRUpz,Passionfruit,Drake,rap,More Life,85,True,4.98,0.809,0.463,-11.377,0.0396,0.256,0.085,0.109,0.364,111.98
+0tgVpDi06FyKpA1z0VMD4v,Perfect,Ed Sheeran,soft pop,÷ (Deluxe),88,False,4.39,0.599,0.448,-6.312,0.0232,0.163,0.0,0.106,0.168,95.05
+7qiZfU4dY1lWllzX7mPBI3,Shape of You,Ed Sheeran,soft pop,÷ (Deluxe),88,False,3.89,0.825,0.652,-3.183,0.0802,0.581,0.0,0.0931,0.931,95.977
+7qiZfU4dY1lWllzX7mPBI3,Shape of You,Ed Sheeran,soft pop,÷ (Deluxe),88,False,3.89,0.825,0.652,-3.183,0.0802,0.581,0.0,0.0931,0.931,95.977
+6uBhi9gBXWjanegOb2Phh0,Stay,Zedd,edm,Stay,76,False,3.5,0.69,0.622,-5.025,0.0622,0.253,0.0,0.116,0.544,102.04
+5yuShbu70mtHXY0yLzCQLQ,Go Flex,Post Malone,"pop, hip hop, country",Stoney (Deluxe),73,True,2.99,0.665,0.498,-8.185,0.083,0.23,0.0,0.0757,0.127,81.958
+5uCax9HTNlzGybIStD3vDh,Say You Won't Let Go,James Arthur,soft pop,Back from the Edge,85,False,3.52,0.358,0.557,-7.398,0.059,0.695,0.0,0.0902,0.494,85.043
+23L5CiUhw2jV1OIMwthR3S,In the Name of Love,Martin Garrix,"edm, progressive house, electronica",In the Name of Love,78,False,3.26,0.501,0.519,-5.88,0.0409,0.109,0.0,0.454,0.168,133.99
+0azC730Exh71aQlOt9Zj3y,This Is What You Came For,Calvin Harris,edm,This Is What You Came For,78,False,3.7,0.631,0.927,-2.787,0.0332,0.199,0.119,0.148,0.465,123.962
+0azC730Exh71aQlOt9Zj3y,This Is What You Came For,Calvin Harris,edm,This Is What You Came For,78,False,3.7,0.631,0.927,-2.787,0.0332,0.199,0.119,0.148,0.465,123.962
+5kqIPrATaCc2LqxVWzQGbk,7 Years,Lukas Graham,dansk pop,Lukas Graham,83,False,3.95,0.765,0.473,-5.829,0.0514,0.287,0.0,0.391,0.34,119.992
+2YWjW3wwQIBLNhxWKBQd16,Lean On (feat. MØ & DJ Snake),Major Lazer,moombahton,Peace Is The Mission : Extended,69,False,2.94,0.723,0.809,-3.081,0.0625,0.00346,0.00123,0.565,0.274,98.007
+2P4OICZRVAQcYAV2JReRfj,Waiting For Love,Avicii,edm,Stories,81,False,3.84,0.579,0.736,-3.863,0.0527,0.31,0.0,0.198,0.613,127.999
+2P4OICZRVAQcYAV2JReRfj,Waiting For Love,Avicii,edm,Stories,81,False,3.84,0.579,0.736,-3.863,0.0527,0.31,0.0,0.198,0.613,127.999
+5tf1VVWniHgryyumXyJM7w,Sugar (feat. Francesco Yates),Robin Schulz,tropical house,Sugar,79,False,3.65,0.636,0.815,-5.098,0.0581,0.0185,0.0,0.163,0.636,123.063
+5tf1VVWniHgryyumXyJM7w,Sugar (feat. Francesco Yates),Robin Schulz,tropical house,Sugar,79,False,3.65,0.636,0.815,-5.098,0.0581,0.0185,0.0,0.163,0.636,123.063
+3zU9rdflI65tK4dkkNSp77,Heroes (we could be),Alesso,edm,Forever,73,False,3.5,0.503,0.748,-4.124,0.0619,0.0305,0.0,0.343,0.356,125.896
+3zU9rdflI65tK4dkkNSp77,Heroes (we could be),Alesso,edm,Forever,73,False,3.5,0.503,0.748,-4.124,0.0619,0.0305,0.0,0.343,0.356,125.896
+0lizgQ7Qw35od7CYaoMBZb,Santa Tell Me,Ariana Grande,pop,Santa Tell Me,74,False,3.4,0.525,0.621,-7.364,0.117,0.0489,0.0,0.291,0.592,191.868
+285HeuLxsngjFn4GGegGNm,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",David Guetta,edm,Listen,73,False,3.2,0.596,0.73,-4.091,0.151,0.24,0.0,0.325,0.525,85.979
+07nH4ifBxUB4lZcsf44Brn,Blame (feat. John Newman),Calvin Harris,edm,Motion,80,False,3.54,0.414,0.857,-4.078,0.0808,0.0287,0.00574,0.343,0.348,128.024
+07nH4ifBxUB4lZcsf44Brn,Blame (feat. John Newman),Calvin Harris,edm,Motion,80,False,3.54,0.414,0.857,-4.078,0.0808,0.0287,0.00574,0.343,0.348,128.024
+6YUTL4dYpB9xZO5qExPf05,Summer,Calvin Harris,edm,Motion,82,False,3.7,0.596,0.856,-3.556,0.0346,0.0211,0.0178,0.141,0.743,127.949
+6YUTL4dYpB9xZO5qExPf05,Summer,Calvin Harris,edm,Motion,82,False,3.7,0.596,0.856,-3.556,0.0346,0.0211,0.0178,0.141,0.743,127.949
+6YUTL4dYpB9xZO5qExPf05,Summer,Calvin Harris,edm,Motion,82,False,3.7,0.596,0.856,-3.556,0.0346,0.0211,0.0178,0.141,0.743,127.949
+7MmG8p0F9N3C4AXdK6o6Eb,Outside (feat. Ellie Goulding),Calvin Harris,edm,Motion,85,False,3.78,0.646,0.823,-4.123,0.0394,0.213,0.0,0.322,0.418,128.035
+7MmG8p0F9N3C4AXdK6o6Eb,Outside (feat. Ellie Goulding),Calvin Harris,edm,Motion,85,False,3.78,0.646,0.823,-4.123,0.0394,0.213,0.0,0.322,0.418,128.035
+2iuZJX9X9P0GKaE93xcPjk,Sugar,Maroon 5,pop,V,80,True,3.92,0.748,0.788,-7.055,0.0334,0.0591,0.0,0.0863,0.884,120.076
+4gbVRS8gloEluzf0GzDOFc,Maps,Maroon 5,pop,V,84,False,3.16,0.742,0.713,-5.522,0.0303,0.0205,0.0,0.059,0.879,120.032
+12KUFSHFgT0XCoiSlvdQi4,Break Free,Ariana Grande,pop,My Everything (Deluxe),80,False,3.58,0.686,0.702,-5.325,0.0455,0.00637,4.46e-05,0.204,0.29,129.948
+1HNkqx9Ahdgi1Ixy2xkKkL,Photograph,Ed Sheeran,soft pop,x (Deluxe Edition),86,False,4.31,0.614,0.379,-10.48,0.0476,0.607,0.000464,0.0986,0.201,107.989
+34gCuhDGsG4bRPIf9bb02f,Thinking out Loud,Ed Sheeran,soft pop,x (Deluxe Edition),84,False,4.69,0.781,0.445,-6.061,0.0295,0.474,0.0,0.184,0.591,78.998
+0cqRj7pUJDkTCEsJkx8snD,Shake It Off,Taylor Swift,"country, pop, indie, folk",1989 (Deluxe),80,False,3.65,0.647,0.8,-5.384,0.165,0.0647,0.0,0.334,0.942,160.078
+6nGeLlakfzlBcFdZXteDq7,Love Story,Indila,french pop,Mini World,77,False,5.27,0.375,0.255,-12.279,0.0377,0.815,0.0,0.0845,0.331,95.978
+0ct6r3EGTcMLPtrXHDvVjc,The Nights,Avicii,edm,The Days / Nights,83,False,2.94,0.527,0.835,-5.298,0.0433,0.0166,0.0,0.249,0.654,125.983
+0ct6r3EGTcMLPtrXHDvVjc,The Nights,Avicii,edm,The Days / Nights,83,False,2.94,0.527,0.835,-5.298,0.0433,0.0166,0.0,0.249,0.654,125.983
+1NZs6n6hl8UuMaX0UC0YTz,Brooklyn Baby,Lana Del Rey,"alternative pop, indie pop",Ultraviolence (Deluxe),82,True,5.86,0.404,0.664,-6.698,0.0407,0.542,0.00402,0.11,0.0949,107.747
+6sy3LkhNFjJWlaeSMNwQ62,Counting Stars,OneRepublic,soft pop,Native,73,False,4.29,0.663,0.706,-4.972,0.0383,0.0654,0.0,0.115,0.474,122.013
+65uoaqX5qcjXZRheAj1qQT,Dernière danse,Indila,french pop,Mini World,79,False,3.55,0.669,0.449,-7.658,0.049,0.184,0.0,0.0729,0.327,114.924
+2vwlzO0Qp8kfEtzTsCXfyE,Wrecking Ball,Miley Cyrus,"country pop, rock, hip hop, experimental",Bangerz (Deluxe Version),80,False,3.68,0.53,0.422,-6.262,0.0342,0.407,0.0,0.107,0.349,119.964
+0nrRP2bk19rLc0orkWPQk2,Wake Me Up,Avicii,edm,True,85,False,4.12,0.532,0.783,-5.697,0.0523,0.0038,0.0012,0.161,0.643,124.08
+5FVd6KXrgO9B3JPmC8OPst,Do I Wanna Know?,Arctic Monkeys,"indie, garage rock",AM,86,False,4.53,0.548,0.532,-7.596,0.0323,0.186,0.000263,0.217,0.405,85.03
+5XeFesFbtLpXzIVDNQP22n,I Wanna Be Yours,Arctic Monkeys,"indie, garage rock",AM,91,False,3.06,0.464,0.417,-9.345,0.0256,0.136,0.022,0.0974,0.479,67.528
+3U4isOIWM3VvDubwSI3y7a,All of Me,John Legend,"soft pop, neo soul",Love In The Future (Expanded Edition),85,False,4.49,0.422,0.264,-7.064,0.0322,0.922,0.0,0.132,0.331,119.93
+5GjnIpUlLGEIYk052ISOw9,This Is What It Feels Like,Armin van Buuren,"trance, progressive trance, progressive house, electronica",Intense,72,False,3.4,0.551,0.833,-5.217,0.03,0.0391,2.77e-06,0.0632,0.145,129.885
+2Foc5Q5nqNiosCNqttzHof,Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],Daft Punk,"french house, electronic, electro",Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],80,False,4.14,0.794,0.811,-8.966,0.038,0.0426,1.07e-06,0.101,0.862,116.047
+2Foc5Q5nqNiosCNqttzHof,Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],Daft Punk,"french house, electronic, electro",Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],80,False,4.14,0.794,0.811,-8.966,0.038,0.0426,1.07e-06,0.101,0.862,116.047
+1j8z4TTjJ1YOdoFEDwJTQa,Ain't It Fun,Paramore,"pop punk, emo",Paramore,76,False,4.94,0.61,0.893,-3.681,0.0921,0.154,4.41e-05,0.021,0.673,104.031
+1yjY7rpaAQvKwpdUliHx0d,Still into You,Paramore,"pop punk, emo",Paramore,82,False,3.6,0.602,0.923,-3.763,0.044,0.0098,0.0,0.0561,0.765,136.01
+6PUIzlqotEmPuBfjbwYWOB,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,Lana Del Rey,"alternative pop, indie pop",Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix],74,False,3.58,0.572,0.81,-5.791,0.0558,0.0157,6.53e-06,0.13,0.11,126.052
+6PUIzlqotEmPuBfjbwYWOB,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,Lana Del Rey,"alternative pop, indie pop",Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix],74,False,3.58,0.572,0.81,-5.791,0.0558,0.0157,6.53e-06,0.13,0.11,126.052
+2nMeu6UenVvwUktBCpLMK9,Young And Beautiful,Lana Del Rey,"alternative pop, indie pop",Young And Beautiful,87,False,3.93,0.324,0.416,-8.92,0.0368,0.262,3.69e-05,0.11,0.151,113.986
+4esOae7i4rqTbAu9o5Pxco,Girl on Fire,Alicia Keys,"r&b, neo soul",Girl on Fire (Remixes) - EP,76,False,3.74,0.482,0.706,-5.762,0.0607,0.135,0.00106,0.105,0.144,92.513
+6VObnIkLVruX4UVyxWhlqm,Skyfall,Adele,soft pop,Skyfall,85,False,4.77,0.346,0.552,-6.864,0.0282,0.417,0.0,0.114,0.0789,75.881
+2V65y3PX4DkRhy1djlxd9p,Don't You Worry Child - Radio Edit,Swedish House Mafia,edm,Don't You Worry Child,81,False,3.54,0.612,0.84,-3.145,0.0509,0.112,0.0,0.116,0.438,129.042
+1IT0WQk5J8NsaeII8ktdlZ,King For A Day,Pierce The Veil,"emo, screamo, post-hardcore",Collide With The Sky,78,True,3.93,0.403,0.965,-2.238,0.0964,3.81e-05,0.000276,0.341,0.431,112.363
+1r1fPuhj9H4VdXr7OK6FL5,CASTLE OF GLASS,Linkin Park,"nu metal, rap metal, rock, alternative metal",LIVING THINGS,76,False,3.42,0.615,0.911,-3.584,0.0278,0.0686,0.00188,0.0908,0.685,108.0
+5JLv62qFIS1DR3zGEcApRt,Wide Awake,Katy Perry,pop,Teenage Dream: The Complete Confection,75,False,3.68,0.515,0.683,-5.099,0.0371,0.0749,2.64e-06,0.392,0.572,159.878
+60wwxj6Dd9NJlirf84wr2c,Clarity,Zedd,edm,Clarity,78,False,4.52,0.509,0.781,-3.48,0.072,0.0398,0.0,0.0749,0.176,128.0
+03UrZgTINDqvnUMbbIMhql,Gangnam Style (강남스타일),PSY,k-pop,Gangnam Style (강남스타일),75,False,3.65,0.727,0.937,-2.871,0.286,0.00417,0.0,0.091,0.749,132.067
+0U10zFw4GlBacOy9VDGfGL,We Found Love,Rihanna,"pop, r&b",Talk That Talk,79,False,3.58,0.735,0.766,-4.485,0.0383,0.025,0.00141,0.108,0.6,127.975
+0U10zFw4GlBacOy9VDGfGL,We Found Love,Rihanna,"pop, r&b",Talk That Talk,79,False,3.58,0.735,0.766,-4.485,0.0383,0.025,0.00141,0.108,0.6,127.975
+5UqCQaDshqbIk3pkhy4Pjg,Levels - Radio Edit,Avicii,edm,Levels,74,False,3.33,0.584,0.889,-5.941,0.0343,0.0462,0.828,0.309,0.464,126.04
+0HZhYMZOcUzZKSFwPOti6m,jar of hearts,Christina Perri,soft pop,lovestrong.,74,False,4.1,0.349,0.348,-6.142,0.0316,0.726,0.0,0.12,0.0886,74.541
+0JXXNGljqupsJaZsgSbMZV,Sure Thing,Miguel,r&b,All I Want Is You,84,False,3.25,0.684,0.607,-8.127,0.1,0.0267,0.000307,0.191,0.498,81.001
+0JXXNGljqupsJaZsgSbMZV,Sure Thing,Miguel,r&b,All I Want Is You,84,False,3.25,0.684,0.607,-8.127,0.1,0.0267,0.000307,0.191,0.498,81.001
+1UGD3lW3tDmgZfAVDh6w7r,Devil In A New Dress,Kanye West,rap,My Beautiful Dark Twisted Fantasy,78,True,5.86,0.435,0.76,-4.935,0.0721,0.0175,0.0,0.158,0.206,80.082
+6ZFbXIJkuI1dVNWvzJzown,Time,Hans Zimmer,soundtrack,Inception (Music from the Motion Picture),73,False,4.59,0.286,0.0968,-16.806,0.0323,0.178,0.696,0.0861,0.0395,62.881
+0U0ldCRmgCqhVvD6ksG63j,Nightcall,Kavinsky,"synthwave, french house",Nightcall,74,False,4.3,0.532,0.874,-5.183,0.0482,0.00842,0.012,0.452,0.361,91.038
+7bHT9osSq1rwT2yaImzqCi,No Love,Eminem,"rap, hip hop",Recovery,69,True,4.99,0.522,0.932,-2.87,0.255,0.119,0.0,0.177,0.33,129.473
+030OCtLMrljNhp8OWHBWW3,Hey Daddy (Daddy's Home),USHER,r&b,Raymond v Raymond (Expanded Edition),80,False,3.73,0.59,0.698,-4.262,0.0286,0.000176,0.0,0.107,0.352,95.975
+4356Typ82hUiFAynbLYbPn,DJ Got Us Fallin' In Love (feat. Pitbull),USHER,r&b,Raymond v Raymond (Expanded Edition),83,False,3.68,0.663,0.861,-3.398,0.109,0.0338,0.0,0.082,0.654,119.963
+2GYHyAoLWpkxLVa4oYTVko,Alors on danse - Radio Edit,Stromae,french pop,Cheese,78,False,3.43,0.79,0.593,-9.204,0.0776,0.0983,0.00202,0.065,0.72,119.958
+2GYHyAoLWpkxLVa4oYTVko,Alors on danse - Radio Edit,Stromae,french pop,Cheese,78,False,3.43,0.79,0.593,-9.204,0.0776,0.0983,0.00202,0.065,0.72,119.958
+2GYHyAoLWpkxLVa4oYTVko,Alors on danse - Radio Edit,Stromae,french pop,Cheese,78,False,3.43,0.79,0.593,-9.204,0.0776,0.0983,0.00202,0.065,0.72,119.958
+6epn3r7S14KUqlReYr77hA,Baby,Justin Bieber,"pop, contemporary r&b",My World 2.0,83,False,3.57,0.728,0.859,-5.237,0.137,0.0401,0.0,0.111,0.535,65.043
+5jzKL4BDMClWqRguW5qZvh,Teenage Dream,Katy Perry,pop,Teenage Dream,74,False,3.79,0.719,0.798,-4.582,0.0361,0.0162,2.34e-06,0.134,0.591,120.012
+7JIuqL4ZqkpfGKQhYlrirs,The Only Exception,Paramore,"pop punk, emo",Brand New Eyes,81,False,4.46,0.452,0.563,-6.607,0.0272,0.144,0.0,0.143,0.209,137.715
+6Wx88Mv6b9ofjKMKkdwOJd,New Divide,Linkin Park,"nu metal, rap metal, rock, alternative metal",Transformers: Revenge Of The Fallen The Album,71,False,4.47,0.493,0.808,-3.365,0.0362,0.000235,0.0,0.0983,0.38,117.971
+64yrDBpcdwEdNY9loyEGbX,21 Guns,Green Day,"punk, pop punk",21st Century Breakdown,76,False,5.35,0.268,0.742,-4.939,0.0355,0.0518,0.0,0.626,0.416,159.779
+1ZLtE9tSJdaUiIJ9YoKHQe,Decode,Paramore,"pop punk, emo",Decode,77,False,4.36,0.28,0.87,-4.219,0.0592,0.000686,0.00608,0.101,0.284,164.057
+1ZLtE9tSJdaUiIJ9YoKHQe,Decode,Paramore,"pop punk, emo",Decode,77,False,4.36,0.28,0.87,-4.219,0.0592,0.000686,0.00608,0.101,0.284,164.057
+0iGckQFyv6svOfAbAY9aWJ,Hot N Cold,Katy Perry,pop,One Of The Boys,77,False,3.67,0.706,0.842,-3.956,0.0417,7.73e-05,0.0,0.0688,0.861,132.032
+2VOomzT6VavJOGBeySqaMc,Disturbia,Rihanna,"pop, r&b",Good Girl Gone Bad: Reloaded,81,False,3.97,0.707,0.814,-4.509,0.0577,0.0861,0.0,0.168,0.717,124.921
+1EzrEOXmMH3G43AXT1y7pA,I'm Yours,Jason Mraz,"soft pop, acoustic pop",We Sing. We Dance. We Steal Things.,77,False,4.04,0.703,0.444,-9.331,0.0417,0.559,0.0,0.0973,0.712,150.96
+4iG2gAwKXsOcijVaVXzRPW,Time to Pretend,MGMT,indie,Oracular Spectacular,76,True,4.35,0.438,0.94,-3.249,0.0452,8.74e-05,0.0777,0.3,0.421,100.99
+4iG2gAwKXsOcijVaVXzRPW,Time to Pretend,MGMT,indie,Oracular Spectacular,76,True,4.35,0.438,0.94,-3.249,0.0452,8.74e-05,0.0777,0.3,0.421,100.99
+6IwKcFdiRQZOWeYNhUiWIv,No One,Alicia Keys,"r&b, neo soul",As I Am (Expanded Edition),71,False,4.23,0.644,0.549,-5.415,0.0285,0.0209,8.85e-06,0.134,0.167,90.04
+6IwKcFdiRQZOWeYNhUiWIv,No One,Alicia Keys,"r&b, neo soul",As I Am (Expanded Edition),71,False,4.23,0.644,0.549,-5.415,0.0285,0.0209,8.85e-06,0.134,0.167,90.04
+6ic8OlLUNEATToEFU3xmaH,Gimme More,Britney Spears,pop,Blackout,84,True,4.18,0.788,0.844,-3.131,0.0334,0.25,0.000678,0.0723,0.382,113.324
+5TRPicyLGbAF2LGBFbHGvO,Flashing Lights,Kanye West,rap,Graduation,85,True,3.95,0.639,0.628,-7.578,0.0398,0.0381,0.0,0.386,0.43,90.482
+3DNRdudZ2SstnDCVKFdXxG,"Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 - Moonlight Sonata"": I. Adagio sostenuto""",Ludwig van Beethoven,"classical, classical piano, chamber music","Beethoven: Piano Sonatas, Vol. 3",8,False,5.25,0.184,0.00527,-37.264,0.0432,0.995,0.887,0.173,0.151,170.612
+18lR4BzEs7e3qzc0KVkTpU,What I've Done,Linkin Park,"nu metal, rap metal, rock, alternative metal",Minutes to Midnight,84,False,3.42,0.627,0.935,-4.882,0.0324,0.0092,0.0,0.147,0.287,120.092
+2x8evxqUlF0eRabbW2JBJd,Fluorescent Adolescent,Arctic Monkeys,"indie, garage rock",Favourite Worst Nightmare,77,False,3.06,0.654,0.828,-5.377,0.0281,0.00146,0.000144,0.122,0.79,112.056
+0BxE4FqsDD1Ot4YuBXwAPp,505,Arctic Monkeys,"indie, garage rock",Favourite Worst Nightmare,86,False,4.22,0.526,0.866,-5.822,0.0568,0.00287,7.78e-05,0.0945,0.248,140.266
+3Zwu2K0Qa5sT6teCCHPShP,Thnks fr th Mmrs,Fall Out Boy,"emo, pop punk",Infinity On High,78,False,3.39,0.46,0.892,-5.046,0.0619,0.0051,0.0,0.106,0.59,154.844
+3lPr8ghNDBLc2uZovNyLs9,Supermassive Black Hole,Muse,"alternative rock, rock",Black Holes and Revelations,81,False,3.54,0.668,0.921,-3.727,0.0439,0.0492,0.00517,0.0877,0.782,120.0
+2aibwv5hGXSgw7Yru8IYTO,Snow (Hey Oh),Red Hot Chili Peppers,"funk rock, alternative rock, rock",Stadium Arcadium,81,False,5.57,0.427,0.9,-3.674,0.0499,0.116,1.75e-05,0.119,0.599,104.655
+10Nmj3JCNoMeBQ87uw5j8k,Dani California,Red Hot Chili Peppers,"funk rock, alternative rock, rock",Stadium Arcadium,79,False,4.7,0.556,0.913,-2.36,0.0437,0.0193,8.59e-06,0.346,0.73,96.184
+4wzjNqjKAKDU82e8uMhzmr,Face Down,The Red Jumpsuit Apparatus,"pop punk, emo",Don't You Fake It,76,False,3.2,0.545,0.932,-2.189,0.0399,0.000665,0.0,0.127,0.464,92.956
+663Karu2rvKLdnY0eo1n3M,Call Me When You're Sober,Evanescence,alternative metal,The Open Door,72,False,3.57,0.45,0.883,-4.094,0.0524,0.00193,0.0,0.293,0.328,93.41
+3ZFTkvIE7kyPt6Nu3PEa7V,Hips Don't Lie (feat. Wyclef Jean),Shakira,latin pop,"Oral Fixation, Vol. 2 (Expanded Edition)",39,False,3.63,0.778,0.824,-5.892,0.0707,0.284,0.0,0.405,0.758,100.024
+0k2GOhqsrxDTAbFFSdNJjT,Temperature,Sean Paul,dancehall,The Trinity,82,False,3.6,0.951,0.6,-4.675,0.0685,0.106,0.0,0.0712,0.822,125.04
+4TsmezEQVSZNNPv5RJ65Ov,Pon de Replay,Rihanna,"pop, r&b",Music Of The Sun,79,False,4.11,0.779,0.64,-8.415,0.159,0.000155,0.000766,0.101,0.499,99.017
+0MsrWnxQZxPAcov7c74sSo,Holiday / Boulevard of Broken Dreams,Green Day,"punk, pop punk",American Idiot,71,True,8.22,0.29,0.827,-3.451,0.0362,0.000659,2.55e-06,0.301,0.45,167.086
+3ZffCQKLFLUvYM59XKLbVm,Wake Me up When September Ends,Green Day,"punk, pop punk",American Idiot,81,False,4.76,0.546,0.814,-5.146,0.0314,0.023,0.0,0.0972,0.146,104.98
+61mWefnWQOLf90gepjOCb3,Duality,Slipknot,"nu metal, metal, alternative metal, rap metal, heavy metal",Vol. 3: The Subliminal Verses (Special Edition),82,False,4.21,0.354,0.982,-3.026,0.168,0.000237,0.000294,0.204,0.194,143.772
+61mWefnWQOLf90gepjOCb3,Duality,Slipknot,"nu metal, metal, alternative metal, rap metal, heavy metal",Vol. 3: The Subliminal Verses (Special Edition),82,False,4.21,0.354,0.982,-3.026,0.168,0.000237,0.000294,0.204,0.194,143.772
+5rb9QrpfcKFHM1EUbSIurX,Yeah! (feat. Lil Jon & Ludacris),USHER,r&b,Confessions (Expanded Edition),85,False,4.17,0.894,0.791,-4.699,0.112,0.0183,0.0,0.0388,0.583,105.018
+7GaFYUqP2WdR4KTPk7cXoP,Let Me Love You,Mario,r&b,Turning Point,75,False,4.15,0.686,0.588,-8.343,0.0554,0.178,0.0,0.0954,0.617,94.519
+7GaFYUqP2WdR4KTPk7cXoP,Let Me Love You,Mario,r&b,Turning Point,75,False,4.15,0.686,0.588,-8.343,0.0554,0.178,0.0,0.0954,0.617,94.519
+6I9VzXrHxO9rA9A5euc8Ak,Toxic,Britney Spears,pop,In The Zone,85,False,3.31,0.774,0.838,-3.914,0.114,0.0249,0.025,0.242,0.924,143.04
+0hDQV9X1Da5JrwhK8gu86p,Maps,Yeah Yeah Yeahs,indie rock,Fever To Tell (Deluxe Remastered),68,False,3.66,0.502,0.941,-5.194,0.0716,0.000346,0.319,0.553,0.124,119.783
+3dxiWIBVJRlqh9xk144rf4,Breaking the Habit,Linkin Park,"nu metal, rap metal, rock, alternative metal",Meteora (Bonus Edition),75,False,3.26,0.58,0.865,-4.359,0.0313,0.105,0.0,0.106,0.587,100.016
+1fr92Vupmcs2vgLMFVQ7rd,In the Shadows,The Rasmus,finnish rock,Dead Letters,75,False,4.29,0.6,0.796,-4.481,0.0275,0.000109,5.2e-05,0.484,0.75,105.991
+0COqiPhxzoWICwFCS4eZcp,Bring Me To Life,Evanescence,alternative metal,Fallen,87,False,3.93,0.331,0.943,-3.188,0.0698,0.00721,2.06e-06,0.242,0.296,94.612
+3YuaBvuZqcwN3CEAyyoaei,Like a Stone,Audioslave,"grunge, post-grunge, alternative metal",Audioslave,79,False,4.89,0.614,0.568,-5.477,0.0276,0.00797,0.0,0.0997,0.516,107.849
+1f2V8U1BiWaC9aJWmpOARe,By the Way,Red Hot Chili Peppers,"funk rock, alternative rock, rock",By the Way (Deluxe Edition),78,False,3.61,0.451,0.97,-4.938,0.107,0.0264,0.00355,0.102,0.198,122.444
+3ZOEytgrvLwQaqXreDs2Jx,Can't Stop,Red Hot Chili Peppers,"funk rock, alternative rock, rock",By the Way (Deluxe Edition),85,False,4.48,0.618,0.938,-3.442,0.0456,0.0179,0.0,0.167,0.875,91.455
+7lQ8MOhq6IN2w8EYcFNSUk,Without Me,Eminem,"rap, hip hop",The Eminem Show,87,True,4.83,0.908,0.669,-2.827,0.0738,0.00286,0.0,0.237,0.662,112.238
+6y20BV5L33R8YXM0YuI38N,No One Knows,Queens of the Stone Age,"stoner rock, alternative rock",Songs For The Deaf,72,False,4.64,0.509,0.584,-4.907,0.057,0.0368,9.96e-05,0.384,0.685,170.411
+6y20BV5L33R8YXM0YuI38N,No One Knows,Queens of the Stone Age,"stoner rock, alternative rock",Songs For The Deaf,72,False,4.64,0.509,0.584,-4.907,0.057,0.0368,9.96e-05,0.384,0.685,170.411
+2lnzGkdtDj5mtlcOW2yRtG,"Whenever, Wherever",Shakira,latin pop,Laundry Service,77,False,3.26,0.794,0.832,-4.862,0.0407,0.237,1.14e-05,0.203,0.871,107.657
+77NNZQSqzLNqh2A9JhLRkg,Don't Stop Believin',Journey,"aor, classic rock",The Essential Journey,75,False,4.14,0.491,0.802,-7.106,0.0392,0.25,0.0,0.387,0.472,119.25
+2DlHlPMa4M17kufBvI2lEN,Chop Suey!,System Of A Down,"nu metal, metal, alternative metal, rap metal, rock",Toxicity,85,False,3.5,0.417,0.934,-3.908,0.119,0.000278,0.0015,0.132,0.287,127.066
+2DlHlPMa4M17kufBvI2lEN,Chop Suey!,System Of A Down,"nu metal, metal, alternative metal, rap metal, rock",Toxicity,85,False,3.5,0.417,0.934,-3.908,0.119,0.000278,0.0015,0.132,0.287,127.066
+6GG73Jik4jUlQCkKg9JuGO,The Middle,Jimmy Eat World,"emo, pop punk",Bleed American,80,False,2.76,0.643,0.849,-5.428,0.0526,0.0371,0.0,0.058,0.903,162.152
+1fJFuvU2ldmeAm5nFIHcPP,First Date,blink-182,"pop punk, punk, rock, skate punk, emo",Take Off Your Pants And Jacket,74,False,2.85,0.579,0.928,-4.344,0.0411,0.000715,0.0,0.18,0.882,95.594
+4KacUpvbA3Mfo05gttTjhN,Fat Lip,Sum 41,"pop punk, punk, skate punk","All Killer, No Filler",72,True,2.97,0.403,0.914,-5.215,0.142,0.000579,0.0,0.065,0.626,196.482
+60a0Rd6pjrkxjPbaKzXjfq,In the End,Linkin Park,"nu metal, rap metal, rock, alternative metal",Hybrid Theory (Bonus Edition),88,False,3.61,0.556,0.864,-5.87,0.0584,0.00958,0.0,0.209,0.4,105.143
+60a0Rd6pjrkxjPbaKzXjfq,In the End,Linkin Park,"nu metal, rap metal, rock, alternative metal",Hybrid Theory (Bonus Edition),88,False,3.61,0.556,0.864,-5.87,0.0584,0.00958,0.0,0.209,0.4,105.143
+6naxalmIoLFWR0siv8dnQQ,Oops!...I Did It Again,Britney Spears,pop,Oops!... I Did It Again,81,False,3.51,0.751,0.834,-5.444,0.0437,0.3,1.77e-05,0.355,0.894,95.053
+503OTo2dSqe7qk76rgsbep,Still D.R.E.,Dr. Dre,"old school hip hop, g-funk, gangster rap, west coast hip hop, hip hop, rap",2001,82,True,4.5,0.816,0.775,-3.323,0.234,0.16,0.00031,0.0543,0.527,93.431
+64BbK9SFKH2jk86U3dGj2P,Otherside,Red Hot Chili Peppers,"funk rock, alternative rock, rock",Californication (Deluxe Edition),84,False,4.25,0.458,0.795,-3.265,0.0574,0.00316,0.000202,0.0756,0.513,123.229
+1G391cbiT3v3Cywg8T7DM1,Scar Tissue,Red Hot Chili Peppers,"funk rock, alternative rock, rock",Californication (Deluxe Edition),85,False,3.59,0.595,0.717,-4.803,0.0295,0.0779,0.00274,0.108,0.547,88.969
+48UPSzbZjgc449aqz8bxox,Californication,Red Hot Chili Peppers,"funk rock, alternative rock, rock",Californication (Deluxe Edition),84,False,5.49,0.592,0.767,-2.788,0.027,0.0021,0.00165,0.127,0.328,96.483
+48UPSzbZjgc449aqz8bxox,Californication,Red Hot Chili Peppers,"funk rock, alternative rock, rock",Californication (Deluxe Edition),84,False,5.49,0.592,0.767,-2.788,0.027,0.0021,0.00165,0.127,0.328,96.483
+2m1hi0nfMR9vdGC8UcrnwU,All The Small Things,blink-182,"pop punk, punk, rock, skate punk, emo",Enema Of The State,81,False,2.78,0.434,0.897,-4.918,0.0488,0.0103,0.0,0.612,0.685,148.708
+3MjUtNVVq3C8Fn0MP3zhXa,...Baby One More Time,Britney Spears,pop,...Baby One More Time (Digital Deluxe Version),82,False,3.51,0.759,0.699,-5.745,0.0307,0.202,0.000131,0.443,0.907,92.96
+0uEp9E98JB5awlA084uaIg,Doo Wop (That Thing),Ms. Lauryn Hill,neo soul,The Miseducation of Lauryn Hill,75,False,5.33,0.535,0.505,-8.926,0.245,0.0393,0.0,0.0923,0.495,99.935
+6W21LNLz9Sw7sUSNWMSHRu,Freak On a Leash,Korn,"nu metal, metal, rap metal, alternative metal",Follow The Leader,79,True,4.26,0.353,0.898,-5.877,0.052,2.23e-05,0.105,0.39,0.525,103.299
+6W21LNLz9Sw7sUSNWMSHRu,Freak On a Leash,Korn,"nu metal, metal, rap metal, alternative metal",Follow The Leader,79,True,4.26,0.353,0.898,-5.877,0.052,2.23e-05,0.105,0.39,0.525,103.299
+57iDDD9N9tTWe75x6qhStw,Bitter Sweet Symphony - Remastered 2016,The Verve,"britpop, shoegaze",Urban Hymns (Remastered 2016),83,False,5.95,0.356,0.917,-6.006,0.0479,0.0335,0.0,0.406,0.518,171.176
+5UWwZ5lm5PKu6eKsHAGxOk,Everlong,Foo Fighters,"rock, post-grunge, alternative rock, grunge",The Colour And The Shape,83,False,4.17,0.413,0.881,-5.541,0.0367,5.99e-05,0.000308,0.0805,0.364,158.066
+5UWwZ5lm5PKu6eKsHAGxOk,Everlong,Foo Fighters,"rock, post-grunge, alternative rock, grunge",The Colour And The Shape,83,False,4.17,0.413,0.881,-5.541,0.0367,5.99e-05,0.000308,0.0805,0.364,158.066
+7KwZNVEaqikRSBSpyhXK2j,Hypnotize - 2014 Remaster,The Notorious B.I.G.,"old school hip hop, gangster rap, east coast hip hop, hip hop",Life After Death (2014 Remastered Edition),81,True,3.83,0.901,0.697,-3.439,0.28,0.145,0.0,0.287,0.67,93.941
+1FTSo4v6BOZH9QxKc3MbVM,Song 2 - 2012 Remaster,Blur,"britpop, madchester, alternative rock",Blur (Special Edition),78,False,2.01,0.674,0.789,-6.903,0.0676,0.00178,0.00708,0.0753,0.918,129.802
+5ZrDlcxIDZyjOzHdYW1ydr,Barbie Girl,Aqua,"europop, eurodance",Aquarium (Special Edition),75,False,3.29,0.812,0.879,-10.998,0.0397,0.017,0.224,0.365,0.962,129.991
+6MdqqkQ8sSC0WB4i8PyRuQ,No Diggity,Blackstreet,new jack swing,Another Level,78,False,5.07,0.867,0.646,-4.674,0.288,0.303,0.0,0.279,0.67,88.634
+2vfvGlqCB7oertO5VLE0sz,ATLiens,Outkast,"southern hip hop, hip hop",ATLiens,68,True,3.84,0.918,0.734,-2.832,0.269,0.0296,8.01e-06,0.191,0.608,97.044
+2vfvGlqCB7oertO5VLE0sz,ATLiens,Outkast,"southern hip hop, hip hop",ATLiens,68,True,3.84,0.918,0.734,-2.832,0.269,0.0296,8.01e-06,0.191,0.608,97.044
+6GtX0jaNL8IjVQfrDBx81z,Bullet With Butterfly Wings - Remastered 2012,The Smashing Pumpkins,"alternative rock, rock",Mellon Collie And The Infinite Sadness (Deluxe Edition),77,False,4.3,0.404,0.72,-9.18,0.0623,5.59e-05,0.836,0.0466,0.475,121.864
+33ZXjLCpiINn8eQIDYEPTD,"Shook Ones, Pt. II",Mobb Deep,"east coast hip hop, old school hip hop, hardcore hip hop, hip hop, gangster rap",The Infamous,77,True,5.42,0.763,0.786,-6.472,0.229,0.0146,0.0114,0.0817,0.504,93.857
+7N1Vjtzr1lmmCW9iasQ8YO,Survival of the Fittest,Mobb Deep,"east coast hip hop, old school hip hop, hardcore hip hop, hip hop, gangster rap",The Infamous,72,True,3.74,0.813,0.703,-5.077,0.268,0.125,1.26e-06,0.237,0.241,94.828
+0bYg9bo50gSsH3LtXe2SQn,All I Want for Christmas Is You,Mariah Carey,christmas,Merry Christmas,78,False,4.01,0.336,0.627,-7.463,0.0384,0.164,0.0,0.0708,0.35,150.273
+5ByAIlEEnxYdvpnezg7HTX,Juicy - 2005 Remaster,The Notorious B.I.G.,"old school hip hop, gangster rap, east coast hip hop, hip hop",Ready to Die (The Remaster),73,True,5.04,0.889,0.818,-4.639,0.253,0.47,0.0,0.179,0.782,96.063
+0trHOzAhNpGCsGBEu7dOJo,N.Y. State of Mind,Nas,"east coast hip hop, old school hip hop, hip hop",Illmatic,71,True,4.89,0.665,0.91,-4.682,0.223,0.0394,0.0,0.227,0.887,84.099
+2Ih217RCGAmyQR68Nn7Cqo,You Know How We Do It,Ice Cube,"gangster rap, west coast hip hop, old school hip hop, g-funk",Lethal Injection,77,True,3.87,0.747,0.52,-10.523,0.0357,0.0977,0.0537,0.142,0.601,92.869
+119c93MHjrDLJTApCVGpvx,C.R.E.A.M. (Cash Rules Everything Around Me),Wu-Tang Clan,"east coast hip hop, old school hip hop, hip hop, gangster rap, hardcore hip hop",Enter The Wu-Tang (36 Chambers) [Expanded Edition],73,True,4.2,0.512,0.514,-11.562,0.387,0.555,0.00958,0.126,0.565,181.033
+11LmqTE2naFULdEP94AUBa,Heart-Shaped Box,Nirvana,"grunge, rock",In Utero (Deluxe Edition),81,False,4.68,0.256,0.641,-10.283,0.0552,0.199,0.0329,0.0853,0.382,203.006
+1oTHteQbmJw15rPxPVXUTv,Insane in the Brain,Cypress Hill,"west coast hip hop, old school hip hop, rap rock, hip hop",Black Sunday,72,True,3.47,0.897,0.611,-10.489,0.211,0.0291,0.186,0.0894,0.769,102.304
+5Tbpp3OLLClPJF8t1DmrFD,"Nuthin' But A G"" Thang""",Dr. Dre,"old school hip hop, g-funk, gangster rap, west coast hip hop, hip hop, rap",The Chronic,76,True,3.95,0.669,0.821,-4.37,0.29,0.00182,0.0,0.147,0.684,94.895
+5Tbpp3OLLClPJF8t1DmrFD,"Nuthin' But A G"" Thang""",Dr. Dre,"old school hip hop, g-funk, gangster rap, west coast hip hop, hip hop, rap",The Chronic,76,True,3.95,0.669,0.821,-4.37,0.29,0.00182,0.0,0.147,0.684,94.895
+5sFDReWLrZHLFZFjHsjUTS,Would? (2022 Remaster),Alice In Chains,"grunge, post-grunge",Dirt (2022 Remaster),77,False,3.44,0.297,0.842,-7.457,0.0488,0.000286,9.1e-06,0.0848,0.586,100.127
+5sFDReWLrZHLFZFjHsjUTS,Would? (2022 Remaster),Alice In Chains,"grunge, post-grunge",Dirt (2022 Remaster),77,False,3.44,0.297,0.842,-7.457,0.0488,0.000286,9.1e-06,0.0848,0.586,100.127
+6QewNVIDKdSl8Y3ycuHIei,Even Flow,Pearl Jam,"grunge, rock, post-grunge",Ten,79,True,4.87,0.394,0.944,-6.506,0.0761,0.00178,4.54e-06,0.298,0.265,105.338
+6QewNVIDKdSl8Y3ycuHIei,Even Flow,Pearl Jam,"grunge, rock, post-grunge",Ten,79,True,4.87,0.394,0.944,-6.506,0.0761,0.00178,4.54e-06,0.298,0.265,105.338
+57bgtoPSgt236HzfBOd8kj,Thunderstruck,AC/DC,"rock, hard rock, classic rock, rock and roll",The Razors Edge,85,False,4.88,0.502,0.89,-5.175,0.0364,0.000147,0.0117,0.217,0.259,133.52
+6kvoHl80mfCVTv7XnZkjQn,"It Must Have Been Love - From the Film Pretty Woman""""",Roxette,swedish pop,It Must Have Been Love,81,False,4.32,0.52,0.652,-6.655,0.0274,0.339,6.14e-05,0.256,0.722,80.61
+1NCuYqMc8hKMb4cpNTcJbD,Another Day in Paradise - 2016 Remaster,Phil Collins,soft rock,...But Seriously (Deluxe Edition),81,False,5.36,0.78,0.565,-7.32,0.0306,0.736,0.00269,0.063,0.365,101.967
+0rmGAIH9LNJewFw7nKzZnc,You Give Love A Bad Name,Bon Jovi,"glam metal, rock",Slippery When Wet,76,False,3.71,0.541,0.959,-2.947,0.0505,0.0663,2.18e-06,0.344,0.812,122.805
+37ZJ0p5Jm13JPevGcx4SkF,Livin' On A Prayer,Bon Jovi,"glam metal, rock",Slippery When Wet,80,False,4.15,0.532,0.887,-3.757,0.0335,0.0778,0.000206,0.294,0.794,122.509
+3MrRksHupTVEQ7YbA0FsZK,The Final Countdown,Europe,glam metal,The Final Countdown (Expanded Edition),76,False,5.17,0.529,0.843,-6.908,0.0616,0.0628,0.000827,0.0608,0.188,117.662
+3MrRksHupTVEQ7YbA0FsZK,The Final Countdown,Europe,glam metal,The Final Countdown (Expanded Edition),76,False,5.17,0.529,0.843,-6.908,0.0616,0.0628,0.000827,0.0608,0.188,117.662
+2WfaOiMkCvy7F5fcp2zZ8L,Take on Me,a-ha,"new wave, synthpop",Hunting High and Low,86,False,3.75,0.573,0.902,-7.638,0.054,0.018,0.00125,0.0928,0.876,84.412
+4RvWPyQ5RL0ao9LPZeSouE,Everybody Wants To Rule The World,Tears For Fears,"new wave, synthpop",Songs From The Big Chair (Super Deluxe Edition),87,False,4.19,0.645,0.795,-12.095,0.0527,0.347,0.00389,0.104,0.535,112.067
+0X1sqQ652p1sceKM2nJlIJ,Runaway,Bon Jovi,"glam metal, rock",Bon Jovi,74,False,3.84,0.475,0.899,-4.321,0.0637,0.00375,1.91e-05,0.14,0.603,152.445
+0X1sqQ652p1sceKM2nJlIJ,Runaway,Bon Jovi,"glam metal, rock",Bon Jovi,74,False,3.84,0.475,0.899,-4.321,0.0637,0.00375,1.91e-05,0.14,0.603,152.445
+28WmNsclKsrVmdv3tDmoYU,Seek & Destroy - Remastered,Metallica,"metal, thrash metal, rock, heavy metal, hard rock",Kill 'Em All (Remastered),71,False,6.91,0.445,0.964,-5.493,0.282,0.037,0.0132,0.0773,0.448,140.817
+1TfqLAPs4K3s2rJMoCokcS,Sweet Dreams (Are Made of This) - 2005 Remaster,Eurythmics,"new wave, synthpop",Sweet Dreams (Are Made Of This),85,False,3.61,0.692,0.711,-7.498,0.0317,0.225,0.0,0.12,0.875,125.135
+2374M0fQpWi3dLnB54qaLX,Africa,TOTO,"yacht rock, soft rock",Toto IV,86,False,4.93,0.671,0.373,-18.064,0.0323,0.257,8.01e-05,0.0481,0.732,92.718
+2374M0fQpWi3dLnB54qaLX,Africa,TOTO,"yacht rock, soft rock",Toto IV,86,False,4.93,0.671,0.373,-18.064,0.0323,0.257,8.01e-05,0.0481,0.732,92.718
+4TnUKixNWMfajncgdSwFoi,Amarillo By Morning,George Strait,"country, classic country, traditional country, honky tonk",Strait From The Heart,72,False,2.89,0.606,0.361,-16.031,0.0346,0.264,3.39e-05,0.38,0.621,121.059
+2Cdvbe2G4hZsnhNMKyGrie,I Love Rock 'N Roll,Joan Jett & the Blackhearts,rock,I Love Rock 'N' Roll (Expanded Edition),77,False,2.91,0.535,0.716,-5.025,0.0431,0.326,0.0,0.659,0.901,94.379
+2Cdvbe2G4hZsnhNMKyGrie,I Love Rock 'N Roll,Joan Jett & the Blackhearts,rock,I Love Rock 'N' Roll (Expanded Edition),77,False,2.91,0.535,0.716,-5.025,0.0431,0.326,0.0,0.659,0.901,94.379
+2Cdvbe2G4hZsnhNMKyGrie,I Love Rock 'N Roll,Joan Jett & the Blackhearts,rock,I Love Rock 'N' Roll (Expanded Edition),77,False,2.91,0.535,0.716,-5.025,0.0431,0.326,0.0,0.659,0.901,94.379
+0cGG2EouYCEEC3xfa0tDFV,Tainted Love,Soft Cell,"synthpop, new wave",Non-Stop Erotic Cabaret,78,False,2.56,0.5,0.501,-8.284,0.0376,0.462,0.0,0.26,0.623,144.438
+08mG3Y1vljYA6bvDt4Wqkj,Back In Black,AC/DC,"rock, hard rock, classic rock, rock and roll",Back In Black,84,False,4.25,0.31,0.7,-5.678,0.047,0.011,0.00965,0.0828,0.763,188.386
+08mG3Y1vljYA6bvDt4Wqkj,Back In Black,AC/DC,"rock, hard rock, classic rock, rock and roll",Back In Black,84,False,4.25,0.31,0.7,-5.678,0.047,0.011,0.00965,0.0828,0.763,188.386
+4w3tQBXhn5345eUXDGBWZG,9 to 5,Dolly Parton,"country, classic country",9 To 5 And Odd Jobs,75,False,2.7,0.554,0.783,-5.852,0.0457,0.416,1.54e-06,0.631,0.813,105.39
+2zYzyRzz6pRmhPzyfMEC8s,Highway to Hell,AC/DC,"rock, hard rock, classic rock, rock and roll",Highway to Hell,85,False,3.47,0.574,0.913,-4.793,0.133,0.061,0.00158,0.156,0.423,115.728
+4U45aEWtQhrm8A5mxPaFZ7,Vienna,Billy Joel,soft rock,The Stranger (Legacy Edition),83,False,3.57,0.532,0.495,-6.662,0.0343,0.659,0.0,0.0754,0.308,124.936
+5QTxFnGygVM4jFQiBovmRo,(Don't Fear) The Reaper,Blue Öyster Cult,"classic rock, hard rock",Agents Of Fortune,79,False,5.13,0.333,0.927,-8.55,0.0733,0.0029,0.000208,0.297,0.385,141.466
+4DMKwE2E2iYDKY01C335Uw,Carry on Wayward Son,Kansas,"classic rock, progressive rock, aor",Leftoverture (Expanded Edition),78,False,5.38,0.482,0.786,-5.735,0.032,0.00321,8.88e-05,0.446,0.793,126.755
+6mFkJmJqdDVQ1REhVfGgd1,Wish You Were Here,Pink Floyd,"progressive rock, psychedelic rock, classic rock, art rock, rock",Wish You Were Here,81,False,5.57,0.481,0.262,-15.73,0.0414,0.735,0.0114,0.832,0.375,122.861
+5EWPGh7jbTNO2wakv8LjUI,Free Bird,Lynyrd Skynyrd,"southern rock, classic rock, rock",Pronounced' Leh-'Nerd 'Skin-'Nerd,78,False,9.11,0.249,0.834,-8.21,0.0574,0.0742,9.69e-05,0.0924,0.337,118.222
+54eZmuggBFJbV7k248bTTt,A Horse with No Name,America,"yacht rock, soft rock, folk rock",America,81,False,4.2,0.653,0.507,-17.18,0.0534,0.687,0.0147,0.155,0.831,123.188
+14XWXWv5FoCbFzLksawpEe,Riders on the Storm,The Doors,"psychedelic rock, classic rock, acid rock",L.A. Woman,72,False,7.24,0.55,0.722,-11.729,0.0283,0.25,0.0129,0.11,0.716,103.886
+2LawezPeJhN4AWuSB0GtAU,Have You Ever Seen The Rain,Creedence Clearwater Revival,"classic rock, southern rock, country rock",Pendulum (Expanded Edition),85,False,2.66,0.741,0.697,-7.028,0.0277,0.0664,2.28e-05,0.133,0.774,116.109
+2EqlS6tkEnglzr7tkKAAYD,Come Together - Remastered 2009,The Beatles,"classic rock, psychedelic rock",Abbey Road (Remastered),77,False,4.33,0.53,0.376,-11.913,0.04,0.0304,0.247,0.0926,0.188,164.775
+2aoo2jlRnM3A0NyLQqMN2f,All Along the Watchtower,Jimi Hendrix,"psychedelic rock, classic rock, acid rock, blues rock",Electric Ladyland,74,False,4.01,0.438,0.805,-6.237,0.0624,0.00255,5.69e-05,0.0842,0.564,113.253
+63T7DJ1AFDD6Bn8VzG6JE8,"Paint It, Black",The Rolling Stones,"classic rock, rock",Aftermath,82,False,3.37,0.464,0.795,-9.267,0.0926,0.0493,0.00244,0.399,0.612,158.691
