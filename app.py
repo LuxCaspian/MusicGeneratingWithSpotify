@@ -110,40 +110,30 @@ def assign_accurate_mood(row):
     if pd.isna(valence) or pd.isna(energy):
         valence, energy = 0.5, 0.5
 
-    # 1. Strong Genre Overrides (Avoids misclassifying obvious genres)
-    if any(k in genre for k in ['metal', 'punk', 'hardcore']):
-        return 'Energetic'
-    if any(k in genre for k in ['lo-fi', 'classical', 'jazz', 'ambient']):
+    # 1. STRICT Chill Override: Only allow actual chill genres into "Chill"
+    # This prevents Pop/Country songs (like Taylor Swift) from accidentally being labeled Chill
+    is_chill_genre = any(k in genre for k in ['lo-fi', 'classical', 'jazz', 'ambient', 'acoustic', 'chill', 'r&b', 'rnb', 'blues', 'soul'])
+    if is_chill_genre:
         return 'Chill'
-    
-    # Hip Hop is rarely "Sad" in the traditional sense; low valence usually means anger/aggression.
-    if 'hip hop' in genre or 'rap' in genre:
-        if energy > 0.6:
-            return 'Energetic'
-        elif valence < 0.4:
-            return 'Energetic'  # Aggressive/Diss tracks like "Not Like Us"
-        else:
-            return 'Chill'
 
-    # 2. Spotify Audio Features
+    # 2. Strong Genre Overrides for Energetic
+    if any(k in genre for k in ['metal', 'punk', 'hardcore', 'dance', 'electronic', 'house']):
+        return 'Energetic'
+    
+    # Hip Hop is rarely "Sad" in the traditional sense; usually anger/aggression.
+    if 'hip hop' in genre or 'rap' in genre:
+        return 'Energetic'
+
+    # 3. Spotify Audio Features (For all remaining genres like Pop, Indie, Country, etc.)
     if valence <= 0.5 and energy <= 0.65:
         return 'Sad'
-    elif valence >= 0.6 and energy >= 0.6:
+    elif valence >= 0.6:
         return 'Happy'
     elif energy > 0.7:
         return 'Energetic'
-    elif energy <= 0.65 and valence > 0.5:
-        return 'Chill'
     else:
-        # 3. Final Fallback for edge cases
-        if any(k in genre for k in ['dance', 'electronic', 'house']):
-            return 'Energetic'
-        elif any(k in genre for k in ['acoustic', 'r&b', 'rnb', 'blues']):
-            return 'Chill'
-        elif any(k in genre for k in ['pop', 'disco', 'country', 'reggae']):
-            return 'Happy'
-        else:
-            return 'Sad'
+        # High valence but moderate/low energy (e.g. acoustic pop) now defaults to Happy instead of Chill
+        return 'Happy'
 
 # Load Data
 @st.cache_data
