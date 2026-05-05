@@ -101,25 +101,42 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# Helper function to generate Moods
-def assign_mood_nlp(genre_text):
-    genre = str(genre_text).lower()
-    if any(k in genre for k in ['rock', 'metal', 'punk', 'dance', 'electronic', 'house', 'hip hop']):
-        return 'Energetic'
-    elif any(k in genre for k in ['pop', 'disco', 'country', 'reggae']):
+# Helper function to generate Moods using Audio Features + Text
+def assign_accurate_mood(row):
+    valence = pd.to_numeric(row.get('valence', 0.5), errors='coerce')
+    energy = pd.to_numeric(row.get('energy', 0.5), errors='coerce')
+    genre = str(row.get('artist_genres', '')).lower()
+
+    if pd.isna(valence) or pd.isna(energy):
+        valence, energy = 0.5, 0.5
+
+    # Use Spotify Audio Features for highly accurate Mood detection
+    if valence < 0.4 and energy <= 0.6:
+        return 'Sad'
+    elif valence >= 0.6 and energy >= 0.6:
         return 'Happy'
-    elif any(k in genre for k in ['jazz', 'lo-fi', 'acoustic', 'r&b', 'chill', 'blues', 'classical']):
+    elif energy >= 0.75:
+        return 'Energetic'
+    elif energy <= 0.5 and valence >= 0.4:
         return 'Chill'
     else:
-        return 'Sad'
+        # Fallback to genre keywords
+        if any(k in genre for k in ['rock', 'metal', 'punk', 'dance', 'electronic', 'house', 'hip hop']):
+            return 'Energetic'
+        elif any(k in genre for k in ['jazz', 'lo-fi', 'acoustic', 'r&b', 'rnb', 'chill', 'blues', 'classical']):
+            return 'Chill'
+        elif any(k in genre for k in ['pop', 'disco', 'country', 'reggae']):
+            return 'Happy'
+        else:
+            return 'Sad'
 
 # Load Data
 @st.cache_data
 def load_data():
     try:
         df = pd.read_csv('merged_spotify_data.csv')
-        # Apply the mood logic
-        df['mood'] = df['artist_genres'].apply(assign_mood_nlp)
+        # Apply the accurate mood logic using axis=1 to pass the entire row
+        df['mood'] = df.apply(assign_accurate_mood, axis=1)
         return df
     except Exception as e:
         st.error(f"Error loading data: {e}")
