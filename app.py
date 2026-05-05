@@ -35,7 +35,7 @@ st.markdown("""
     }
     
     h1.main-title {
-        font-size: 2.8rem;
+        font-size: 2.1rem;
         font-weight: 700;
         white-space: nowrap;
         background: -webkit-linear-gradient(45deg, #1db954, #1ed760);
