@@ -1,10 +1,9 @@
 import streamlit as st
 import pandas as pd
-import joblib
 
 # Must be the first Streamlit command
 st.set_page_config(
-    page_title="Music Mood Predictor",
+    page_title="Music Generator UI",
     page_icon="🎵",
     layout="centered",
     initial_sidebar_state="collapsed",
@@ -58,11 +57,6 @@ st.markdown("""
         animation: fadeIn 1.5s ease-out;
     }
     
-    /* Sliders styling */
-    .stSlider > div > div > div {
-        background-color: #1db954 !important;
-    }
-    
     /* Button styling */
     .stButton > button {
         background: linear-gradient(90deg, #1db954 0%, #1ed760 100%);
@@ -83,34 +77,18 @@ st.markdown("""
         background: linear-gradient(90deg, #1ed760 0%, #1db954 100%);
     }
 
-    /* Input styling */
-    .stTextInput > div > div > input {
-        background-color: rgba(255, 255, 255, 0.1);
-        border: 1px solid rgba(255, 255, 255, 0.2);
-        color: white;
+    /* Selectbox styling */
+    .stSelectbox > div > div > div {
+        background-color: rgba(255, 255, 255, 0.1) !important;
+        color: white !important;
         border-radius: 10px;
     }
-
-    /* Result Box */
-    .result-box {
-        background: rgba(29, 185, 84, 0.15);
-        border: 2px solid #1db954;
-        border-radius: 15px;
-        padding: 2rem;
-        text-align: center;
+    
+    .result-container {
         margin-top: 2rem;
-        animation: scaleIn 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        animation: fadeIn 1s ease-out;
     }
     
-    .mood-text {
-        font-size: 3rem;
-        font-weight: 900;
-        color: #1db954;
-        margin: 1rem 0;
-        text-transform: uppercase;
-        letter-spacing: 2px;
-    }
-
     /* Animations */
     @keyframes fadeInDown {
         from { opacity: 0; transform: translateY(-20px); }
@@ -120,102 +98,98 @@ st.markdown("""
         from { opacity: 0; }
         to { opacity: 1; }
     }
-    @keyframes scaleIn {
-        from { opacity: 0; transform: scale(0.9); }
-        to { opacity: 1; transform: scale(1); }
-    }
 </style>
 """, unsafe_allow_html=True)
 
-# Load the trained model
-@st.cache_resource
-def load_model():
-    try:
-        return joblib.load('best_model_logistic_regression.pkl')
-    except Exception as e:
-        st.error(f"Error loading model: {e}")
-        return None
+# Helper function to generate Moods
+def assign_mood_nlp(genre_text):
+    genre = str(genre_text).lower()
+    if any(k in genre for k in ['rock', 'metal', 'punk', 'dance', 'electronic', 'house', 'hip hop']):
+        return 'Energetic'
+    elif any(k in genre for k in ['pop', 'disco', 'country', 'reggae']):
+        return 'Happy'
+    elif any(k in genre for k in ['jazz', 'lo-fi', 'acoustic', 'r&b', 'chill', 'blues', 'classical']):
+        return 'Chill'
+    else:
+        return 'Sad'
 
-model = load_model()
+# Load Data
+@st.cache_data
+def load_data():
+    try:
+        df = pd.read_csv('merged_spotify_data.csv')
+        # Apply the mood logic
+        df['mood'] = df['artist_genres'].apply(assign_mood_nlp)
+        return df
+    except Exception as e:
+        st.error(f"Error loading data: {e}")
+        return pd.DataFrame()
+
+df = load_data()
 
 # Header Section
 st.markdown("""
 <div class="title-container">
-    <h1 class="main-title">AI Music Mood Predictor</h1>
-    <p class="subtitle">Discover the emotional vibe of any track using Machine Learning</p>
+    <h1 class="main-title">🎵 Music Generator UI 🎵</h1>
+    <p class="subtitle">Select your vibe and let AI curate your playlist</p>
 </div>
 """, unsafe_allow_html=True)
 
-if model:
-    # App Main Form
-    with st.form("prediction_form"):
-        st.markdown("### 🎹 Track Profile")
-        
-        # Genre Input
-        text_feature = st.text_input("Enter Music Genre(s) (e.g., pop, rock, electronic, jazz chill)", value="pop dance")
-        
-        st.markdown("### 🎛️ Audio Features")
-        
-        # Audio feature sliders (split into 3 columns for better UI)
-        col1, col2, col3 = st.columns(3)
+if not df.empty:
+    # Setup options
+    common_genres = [
+        'Pop', 'Rock', 'Hip Hop', 'R&B', 'Country',
+        'Jazz', 'Electronic', 'Classical', 'Blues',
+        'Indie', 'Metal', 'Reggae', 'Dance'
+    ]
+    unique_moods = sorted(df['mood'].unique().tolist())
+    
+    # UI Form
+    with st.form("generator_form"):
+        col1, col2 = st.columns(2)
         
         with col1:
-            danceability = st.slider("Danceability", 0.0, 1.0, 0.7, help="How suitable a track is for dancing.")
-            energy = st.slider("Energy", 0.0, 1.0, 0.8, help="Intensity and activity measure.")
-            valence = st.slider("Valence", 0.0, 1.0, 0.6, help="Musical positiveness (happy/sad).")
-            
+            selected_mood = st.selectbox("Mood:", ['Any'] + unique_moods)
         with col2:
-            loudness = st.slider("Loudness (dB)", -60.0, 0.0, -5.0, help="Overall loudness of a track in decibels.")
-            speechiness = st.slider("Speechiness", 0.0, 1.0, 0.05, help="Presence of spoken words.")
-            tempo = st.slider("Tempo (BPM)", 0.0, 250.0, 120.0, help="Overall estimated tempo in beats per minute.")
+            selected_genre = st.selectbox("Genre:", ['Any'] + common_genres)
             
-        with col3:
-            acousticness = st.slider("Acousticness", 0.0, 1.0, 0.1, help="Confidence measure of track being acoustic.")
-            instrumentalness = st.slider("Instrumentalness", 0.0, 1.0, 0.0, help="Predicts whether a track contains no vocals.")
-            liveness = st.slider("Liveness", 0.0, 1.0, 0.1, help="Presence of an audience in the recording.")
-
         # Submit button
-        submit_button = st.form_submit_button(label="Predict Mood 🚀")
+        submit_button = st.form_submit_button(label="Generate Music 🚀")
 
-    # Prediction Logic
+    # Generation Logic
     if submit_button:
-        # Create a DataFrame matching the model's expected input
-        input_data = pd.DataFrame({
-            'danceability': [danceability],
-            'energy': [energy],
-            'loudness': [loudness],
-            'speechiness': [speechiness],
-            'acousticness': [acousticness],
-            'instrumentalness': [instrumentalness],
-            'liveness': [liveness],
-            'valence': [valence],
-            'tempo': [tempo],
-            'text_feature': [text_feature]
-        })
+        st.markdown('<div class="result-container">', unsafe_allow_html=True)
+        
+        filtered_df = df.copy()
 
-        # Make Prediction
-        with st.spinner("Analyzing audio features..."):
-            try:
-                prediction = model.predict(input_data)[0]
+        if selected_genre != 'Any':
+            search_term = selected_genre.lower()
+            filtered_df = filtered_df[filtered_df['artist_genres'].str.contains(search_term, case=False, na=False)]
+
+        if selected_mood != 'Any':
+            filtered_df = filtered_df[filtered_df['mood'] == selected_mood]
+
+        if filtered_df.empty:
+            st.error(f"❌ No songs found for Genre: **{selected_genre}** and Mood: **{selected_mood}**. Try another combination!")
+        else:
+            st.success(f"✅ AI recommends songs for Genre: **'{selected_genre}'** & Mood: **'{selected_mood}'**!")
+            
+            sample_size = min(3, len(filtered_df))
+            recommendations = filtered_df.sample(sample_size)
+            
+            st.markdown("### Your Curated Tracks:")
+            for idx, row in recommendations.iterrows():
+                track_id = row['track_id']
+                # Embed the Spotify Player
+                spotify_player = f"""
+                <iframe src="https://open.spotify.com/embed/track/{track_id}"
+                        width="100%" height="152" frameborder="0"
+                        allowtransparency="true" allow="encrypted-media">
+                </iframe>
+                <br><br>
+                """
+                st.components.v1.html(spotify_player, height=160)
                 
-                # Choose emoji based on mood
-                emoji_map = {
-                    'Energetic': '🔥',
-                    'Happy': '☀️',
-                    'Chill': '🍃',
-                    'Sad': '🌧️'
-                }
-                mood_emoji = emoji_map.get(prediction, '🎵')
-                
-                # Display Results
-                st.markdown(f"""
-                <div class="result-box">
-                    <h2>The Predicted Mood is:</h2>
-                    <div class="mood-text">{prediction} {mood_emoji}</div>
-                </div>
-                """, unsafe_allow_html=True)
-                
-            except Exception as e:
-                st.error(f"Prediction failed: {e}")
+        st.markdown('</div>', unsafe_allow_html=True)
 else:
-    st.warning("⚠️ Could not load the model file 'best_model_logistic_regression.pkl'. Please ensure it exists in the same directory.")
+    st.warning("⚠️ Could not load 'merged_spotify_data.csv'. Please make sure the file exists in the directory.")
