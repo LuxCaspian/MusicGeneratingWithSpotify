@@ -111,13 +111,13 @@ def assign_accurate_mood(row):
         valence, energy = 0.5, 0.5
 
     # Use Spotify Audio Features for highly accurate Mood detection
-    if valence < 0.4 and energy <= 0.6:
+    if valence <= 0.5 and energy <= 0.65:
         return 'Sad'
     elif valence >= 0.6 and energy >= 0.6:
         return 'Happy'
-    elif energy >= 0.75:
+    elif energy > 0.7:
         return 'Energetic'
-    elif energy <= 0.5 and valence >= 0.4:
+    elif energy <= 0.65 and valence > 0.5:
         return 'Chill'
     else:
         # Fallback to genre keywords
