@@ -12,7 +12,7 @@ st.set_page_config(
 # Custom CSS for Premium Design
 st.markdown("""
 <style>
-    @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;700&family=Outfit:wght@400;500;600;700;800&display=swap');
     /* Main background */
     .stApp {
         background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
@@ -22,7 +22,10 @@ st.markdown("""
     /* Title and text styling */
     h1, h2, h3, p, label {
         color: #f1f2f6 !important;
-        font-family: 'Inter', sans-serif !important;
+    }
+    
+    html, body, [class*="css"], [class*="st-"], .stApp, h1, h2, h3, p, label, span, div, button, input, select {
+        font-family: 'Outfit', sans-serif !important;
     }
     
     .title-container {
@@ -32,8 +35,8 @@ st.markdown("""
     }
     
     h1.main-title {
-        font-size: 3.5rem;
-        font-weight: 800;
+        font-size: 2.8rem;
+        font-weight: 700;
         white-space: nowrap;
         background: -webkit-linear-gradient(45deg, #1db954, #1ed760);
         -webkit-background-clip: text;
@@ -155,7 +158,7 @@ df = load_data()
 # Header Section
 st.markdown("""
 <div class="title-container">
-    <h1 class="main-title">🎵 Music Generator UI 🎵</h1>
+    <h1 class="main-title">🎵 Music Recommendation System 🎵</h1>
     <p class="subtitle">Select your vibe and let AI curate your playlist</p>
 </div>
 """, unsafe_allow_html=True)
@@ -179,7 +182,7 @@ if not df.empty:
             selected_genre = st.selectbox("Genre:", ['Any'] + common_genres)
             
         # Submit button
-        submit_button = st.form_submit_button(label="Generate Music 🚀")
+        submit_button = st.form_submit_button(label="Generate Music 🎵")
 
     # Generation Logic
     if submit_button:
