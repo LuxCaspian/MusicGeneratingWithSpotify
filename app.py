@@ -34,6 +34,7 @@ st.markdown("""
     h1.main-title {
         font-size: 3.5rem;
         font-weight: 800;
+        white-space: nowrap;
         background: -webkit-linear-gradient(45deg, #1db954, #1ed760);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
@@ -154,7 +155,7 @@ df = load_data()
 # Header Section
 st.markdown("""
 <div class="title-container">
-    <h1 class="main-title">🎵 Music Generator UI </h1>
+    <h1 class="main-title">🎵 Music Generator UI 🎵</h1>
     <p class="subtitle">Select your vibe and let AI curate your playlist</p>
 </div>
 """, unsafe_allow_html=True)
