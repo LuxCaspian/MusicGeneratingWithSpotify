@@ -12,6 +12,7 @@ st.set_page_config(
 # Custom CSS for Premium Design
 st.markdown("""
 <style>
+    @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;700&display=swap');
     /* Main background */
     .stApp {
         background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
@@ -40,9 +41,10 @@ st.markdown("""
     }
     
     .subtitle {
-        font-size: 1.2rem;
+        font-family: 'Dancing Script', cursive !important;
+        font-size: 1.8rem;
         color: #a4b0be !important;
-        font-weight: 300;
+        font-weight: 500;
         letter-spacing: 1px;
     }
     
@@ -152,7 +154,7 @@ df = load_data()
 # Header Section
 st.markdown("""
 <div class="title-container">
-    <h1 class="main-title">🎵 Music Generator UI 🎵</h1>
+    <h1 class="main-title">🎵 Music Generator UI </h1>
     <p class="subtitle">Select your vibe and let AI curate your playlist</p>
 </div>
 """, unsafe_allow_html=True)
