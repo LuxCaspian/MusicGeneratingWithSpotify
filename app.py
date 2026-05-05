@@ -110,7 +110,22 @@ def assign_accurate_mood(row):
     if pd.isna(valence) or pd.isna(energy):
         valence, energy = 0.5, 0.5
 
-    # Use Spotify Audio Features for highly accurate Mood detection
+    # 1. Strong Genre Overrides (Avoids misclassifying obvious genres)
+    if any(k in genre for k in ['metal', 'punk', 'hardcore']):
+        return 'Energetic'
+    if any(k in genre for k in ['lo-fi', 'classical', 'jazz', 'ambient']):
+        return 'Chill'
+    
+    # Hip Hop is rarely "Sad" in the traditional sense; low valence usually means anger/aggression.
+    if 'hip hop' in genre or 'rap' in genre:
+        if energy > 0.6:
+            return 'Energetic'
+        elif valence < 0.4:
+            return 'Energetic'  # Aggressive/Diss tracks like "Not Like Us"
+        else:
+            return 'Chill'
+
+    # 2. Spotify Audio Features
     if valence <= 0.5 and energy <= 0.65:
         return 'Sad'
     elif valence >= 0.6 and energy >= 0.6:
@@ -120,10 +135,10 @@ def assign_accurate_mood(row):
     elif energy <= 0.65 and valence > 0.5:
         return 'Chill'
     else:
-        # Fallback to genre keywords
-        if any(k in genre for k in ['rock', 'metal', 'punk', 'dance', 'electronic', 'house', 'hip hop']):
+        # 3. Final Fallback for edge cases
+        if any(k in genre for k in ['dance', 'electronic', 'house']):
             return 'Energetic'
-        elif any(k in genre for k in ['jazz', 'lo-fi', 'acoustic', 'r&b', 'rnb', 'chill', 'blues', 'classical']):
+        elif any(k in genre for k in ['acoustic', 'r&b', 'rnb', 'blues']):
             return 'Chill'
         elif any(k in genre for k in ['pop', 'disco', 'country', 'reggae']):
             return 'Happy'
