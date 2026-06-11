@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import joblib
 
 # Must be the first Streamlit command
 st.set_page_config(
@@ -106,50 +107,29 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# Helper function to generate Moods using Audio Features + Text
-def assign_accurate_mood(row):
-    valence = pd.to_numeric(row.get('valence', 0.5), errors='coerce')
-    energy = pd.to_numeric(row.get('energy', 0.5), errors='coerce')
-    genre = str(row.get('artist_genres', '')).lower()
-
-    if pd.isna(valence) or pd.isna(energy):
-        valence, energy = 0.5, 0.5
-
-    # 1. STRICT Chill Override: Only allow actual chill genres into "Chill"
-    # This prevents Pop/Country songs (like Taylor Swift) from accidentally being labeled Chill
-    is_chill_genre = any(k in genre for k in ['lo-fi', 'classical', 'jazz', 'ambient', 'acoustic', 'chill', 'r&b', 'rnb', 'blues', 'soul'])
-    if is_chill_genre:
-        return 'Chill'
-
-    # 2. Strong Genre Overrides for Energetic
-    if any(k in genre for k in ['metal', 'punk', 'hardcore', 'dance', 'electronic', 'house']):
-        return 'Energetic'
-    
-    # Hip Hop is rarely "Sad" in the traditional sense; usually anger/aggression.
-    if 'hip hop' in genre or 'rap' in genre:
-        return 'Energetic'
-
-    # 3. Spotify Audio Features (For all remaining genres like Pop, Indie, Country, etc.)
-    if valence <= 0.5 and energy <= 0.65:
-        return 'Sad'
-    elif valence >= 0.6:
-        return 'Happy'
-    elif energy > 0.7:
-        return 'Energetic'
-    else:
-        # High valence but moderate/low energy (e.g. acoustic pop) now defaults to Happy instead of Chill
-        return 'Happy'
-
-# Load Data
+# Load Data and Model
 @st.cache_data
 def load_data():
     try:
+        # Load dataset
         df = pd.read_csv('merged_spotify_data.csv')
-        # Apply the accurate mood logic using axis=1 to pass the entire row
-        df['mood'] = df.apply(assign_accurate_mood, axis=1)
-        return df
+        
+        # Load the exported Machine Learning Model
+        model = joblib.load('best_model_logistic_regression.pkl')
+        
+        # Prepare features exactly as the model expects
+        audio_features = ['danceability', 'energy', 'loudness', 'speechiness', 'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo']
+        df_clean = df.dropna(subset=audio_features + ['artist_genres']).copy()
+        df_clean['text_feature'] = df_clean['artist_genres'].astype(str)
+        
+        X = df_clean[audio_features + ['text_feature']]
+        
+        # Predict the mood
+        df_clean['mood'] = model.predict(X)
+        
+        return df_clean
     except Exception as e:
-        st.error(f"Error loading data: {e}")
+        st.error(f"Error loading data or model: {e}")
         return pd.DataFrame()
 
 df = load_data()
